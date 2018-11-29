@@ -23,3 +23,14 @@
 `13.` [Roman to Integer](src/easy/RomaToNumber.java)
 
 `14.` [Longest Common Prefix](src/easy/LongestCommonPrefix.java)
+
+---
+
+*2018.11.29  `updata`*
+
+        1. 修改了整个项目的编码集
+> 一开始没注意今天用手机`AIDE`的`git`进行`pull`操作的时候，发现乱码了，才知道原来一直没有修改编码集，`eclipse`默认的是`GBK`,折腾了半天，最后找了一个编码转换器，才将工程里所有的class文件转换完毕，解决了乱码问题
+
+        2. 将工程目录的.class\.settings\.target等ignore的文件重新push
+
+> 手机的`AIDE`从`github`拉取到本地的时候不能运行，新建了一个项目进行对比，发现没了.class文件的时候不能自动生成，同时也缺少`.classpath`配置文件，所以又将`git`忽略的文件重新加入了进来，至此，手机上也可以直接进行调试代码并直接`push`到`github`了
