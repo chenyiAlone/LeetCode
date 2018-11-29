@@ -26,7 +26,7 @@ public class LongestPalindromicSubstring {
                 hi = i + j;
 //                System.out.println("lo = " + lo + "  hi = " + hi);
                 while (lo <= hi) {
-                    if (s.charAt(lo) != s.charAt(hi)) {     // Á½²àÏòÖÐ¼äÒÀ´Î½øÐÐ±È½Ï
+                    if (s.charAt(lo) != s.charAt(hi)) {     // ä¸¤ä¾§å‘ä¸­é—´ä¾æ¬¡è¿›è¡Œæ¯”è¾ƒ
                         flag = false;
                         break;
                     }
@@ -46,8 +46,8 @@ public class LongestPalindromicSubstring {
     }
    
     /**
-     * µÚÒ»¸öÊ¹ÓÃÁËStringBufferÀ´ÅÐ¶ÏÊÇ·ñÊÇ»ØÎÄµÄ°æ±¾,
-     * µ«ÊÇ¶ÔÓÚ³¤µÄ×Ö·û´®s²Ù×÷³¬Ê±,Ê§°Ü
+     * ç¬¬ä¸€ä¸ªä½¿ç”¨äº†StringBufferæ¥åˆ¤æ–­æ˜¯å¦æ˜¯å›žæ–‡çš„ç‰ˆæœ¬,
+     * ä½†æ˜¯å¯¹äºŽé•¿çš„å­—ç¬¦ä¸²sæ“ä½œè¶…æ—¶,å¤±è´¥
      * @param s
      * @return
      */

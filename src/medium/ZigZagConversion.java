@@ -23,7 +23,7 @@ package medium;
  */
 public class ZigZagConversion {
     public String convert(String s, int numRows) {
-        int n = numRows *2 -2;  // ½«ExplanationÖĞËùÊ¾µÄÍ¼,´ÓµÚÒ»¸öPÔªËØÏòÏÂ£¬È»ºóÏòÉÏÕÛ»Øµ½IÖ®Ç°µÄLÎªÒ»×é
+        int n = numRows *2 -2;  // å°†Explanationä¸­æ‰€ç¤ºçš„å›¾,ä»ç¬¬ä¸€ä¸ªPå…ƒç´ å‘ä¸‹ï¼Œç„¶åå‘ä¸ŠæŠ˜å›åˆ°Iä¹‹å‰çš„Lä¸ºä¸€ç»„
         if (n == 0) return s;
         char[] ans = new char[s.length()];
         for (int i = 0, count = 0; i < numRows; i++) {

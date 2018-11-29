@@ -1,12 +1,12 @@
 package util;
 /**
- * ¹¤¾ßÀà
+ * å·¥å…·ç±»
  * @author chenyiAlone
  *
  */
 public class Utils {
     /**
-     * ½«arrayÊı×éÖĞµÄpºÍqÔªËØ½øĞĞ½»»»
+     * å°†arrayæ•°ç»„ä¸­çš„på’Œqå…ƒç´ è¿›è¡Œäº¤æ¢
      * @param array 
      * @param p 
      * @param q
@@ -18,7 +18,7 @@ public class Utils {
     }
     
     /**
-     * ±éÀú´òÓ¡Êı×éµÄËùÓĞÔªËØ
+     * éå†æ‰“å°æ•°ç»„çš„æ‰€æœ‰å…ƒç´ 
      * @param array
      */
     public static void printArray(int[] array) {
@@ -37,9 +37,9 @@ public class Utils {
     }
     
     /**
-     * ³õÊ¼»¯Ò»¸öÊÇ·ñÓĞĞòµÄÊı×é
-     * @param n     Êı×éÔªËØµÄ¸öÊı
-     * @param order ÊÇ·ñÓĞĞò
+     * åˆå§‹åŒ–ä¸€ä¸ªæ˜¯å¦æœ‰åºçš„æ•°ç»„
+     * @param n     æ•°ç»„å…ƒç´ çš„ä¸ªæ•°
+     * @param order æ˜¯å¦æœ‰åº
      * @return array 
      */
     public static int[] initArray(int n, boolean order) {
@@ -47,7 +47,7 @@ public class Utils {
     }
     
     /**
-     * ³õÊ¼»¯·µ»ØÒ»¸öÓÃÓÚn¸öÔªËØ³õÊ¼ÖµÎª0-nµÄÊı×é
+     * åˆå§‹åŒ–è¿”å›ä¸€ä¸ªç”¨äºnä¸ªå…ƒç´ åˆå§‹å€¼ä¸º0-nçš„æ•°ç»„
      * @param n
      * @return
      */
@@ -60,7 +60,7 @@ public class Utils {
     }
     
     /**
-     * ½«Êı×éËæ»ú´òÂÒ
+     * å°†æ•°ç»„éšæœºæ‰“ä¹±
      * @param array
      * @return 
      */

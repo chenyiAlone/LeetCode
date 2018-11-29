@@ -32,7 +32,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
         return max;
     }
     
-    // 放回扫描元素之前的元素中与他相同的第一个元素的下标
+    // 鏀惧洖鎵弿鍏冪礌涔嬪墠鐨勫厓绱犱腑涓庝粬鐩稿悓鐨勭涓�涓厓绱犵殑涓嬫爣
     public static int lastEqualIndex(String str,int lo, int x) {
         char c = str.charAt(x);
         while (x-- > lo) {

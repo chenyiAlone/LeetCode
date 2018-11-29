@@ -13,9 +13,9 @@ package easy;
  * @author chenyiAlone
  * 
  * date 2018.11.28 
- *      �����������Լ�û��ͨ�����ճ�˵�һ�ݴ𰸣����ڿ�������ʵ���Ǳ���������������ÿ������ֵ�������
- * ����ʮ��ʱ�����һλ��λ��������carry/10�õ��ľ��ǽ�����һ�ڵ��ֵ��ʹ��sum��ʾ��λ�Լ���������֮�ͣ�
- * carry�����λΪ����һ��ѭ���е�������㣬while�����if�������һ���Ľ�λ���ж�
+ *      当年做的题自己没想通，最后粘了的一份答案，现在看来，其实就是遍历两个链表，将每个结点的值进行相加
+ * 超过十的时候向后一位进位，这样，carry/10得到的就是进到下一节点的值，使用sum表示进位以及两个加数之和，
+ * carry求其进位为了下一次循环中的求和运算，while外面的if用于最后一个的进位的判断
  * 
  */
 public class AddTwoNumbers {
