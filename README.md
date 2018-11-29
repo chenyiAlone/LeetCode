@@ -8,7 +8,7 @@
 
 `2.` [Add Two Numbers](src/easy/AddTwoNumbers.java)
 
-`3.` [Longest Substring Without Repeating Characters](src\medium\LongestSubstringWithoutRepeatingCharacters.java)
+`3.` [Longest Substring Without Repeating Characters](src/medium/LongestSubstringWithoutRepeatingCharacters.java)
 
 `4.` [Median of Two Sorted Arrays](src/hard/MedianofTwoSortedArrays.java)
 
