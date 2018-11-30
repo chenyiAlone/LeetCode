@@ -16,15 +16,8 @@ public class MergeTwoSortedLists {
 			p = p.next;
 	
 		}
-		// return header.next;		//手机的AIDE不知为什么老是报错，代码是没问题，在leetcode通过了
-		return null;
+		return header.next;
     }
 	 
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
 }
 
