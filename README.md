@@ -33,6 +33,9 @@
 `21.` [Merge Two Sorted Lists](src/easy/MergeTwoSortedLists.java)
 
 `26.` [Remove Duplicates from Sorted Array](src/easy/RemoveDuplicatesFromSortedArray.java)
+
+`27.` [Remove Element](src/easy/RemoveElement.java)
+
 ---
 
 *2018.11.29  `updata`*
