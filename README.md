@@ -36,7 +36,7 @@
 
 `27.` [Remove Element](src/easy/RemoveElement.java)
 
-`28.` [Implement strStr()](src/easy/ImplementstrStr().java)
+`28.` [Implement strStr()](src/easy/ImplementstrStr.java)
 
 ---
 
