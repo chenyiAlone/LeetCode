@@ -36,6 +36,8 @@
 
 `27.` [Remove Element](src/easy/RemoveElement.java)
 
+`28.` [Implement strStr()](src/easy/ImplementstrStr().java)
+
 ---
 
 *2018.11.29  `updata`*
