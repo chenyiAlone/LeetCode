@@ -22,7 +22,10 @@ public class Utils {
      * @param array
      */
     public static void printArray(int[] array) {
-        printArray(array);
+        for (int i : array) {
+            System.out.print(i + " ");
+        }
+        System.out.println();
     }
     
     /**
@@ -31,7 +34,7 @@ public class Utils {
      */
     public static void printArray(Object[] array) {
         for (Object o : array) {
-            System.out.print(o + " ");
+            System.out.print(o.toString() + " ");
         }
         System.out.println();
     }

@@ -38,6 +38,9 @@
 
 `28.` [Implement strStr()](src/easy/ImplementstrStr.java)
 
+`35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
+
+
 ---
 
 *2018.11.29  `updata`*
