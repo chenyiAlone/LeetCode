@@ -1,5 +1,7 @@
 package easy;
 
+import util.ListNode;
+
 /**
  * You are given two non-empty linked lists representing two non-negative integers. 
  * The digits are stored in reverse order and each of their nodes contain a single digit. 

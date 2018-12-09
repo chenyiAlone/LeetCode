@@ -1,4 +1,6 @@
 package util;
+
+
 /**
  * 工具类
  * @author chenyiAlone
@@ -60,6 +62,21 @@ public class Utils {
             array[n] = n;
         }
         return array;
+    }
+    
+    /**
+     * 初始化一个有n个结点的ListNode,结点的值为1-n
+     * @param n
+     * @return
+     */
+    public static ListNode initListNode(int n) {
+        ListNode list = new ListNode(1);
+        ListNode temp = list;
+        for (int i = 2; i <= n; i++) {
+            temp.next = new ListNode(i);
+            temp = temp.next;
+        }
+        return list;
     }
     
     /**

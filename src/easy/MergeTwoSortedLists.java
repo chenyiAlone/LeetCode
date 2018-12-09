@@ -1,4 +1,7 @@
 package easy;
+
+import util.ListNode;
+
 /**
  * @author chenyiAlone
  * @date 2018.11.30
