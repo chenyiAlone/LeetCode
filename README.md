@@ -38,6 +38,8 @@
 
 `23.` [Merge k Sorted Lists](src/hard/MergekSortedLists.java)
 
+`24.` [Swap Nodes in Pairs](src/medium/SwapNodesinPairs.java)
+
 `26.` [Remove Duplicates from Sorted Array](src/easy/RemoveDuplicatesFromSortedArray.java)
 
 `27.` [Remove Element](src/easy/RemoveElement.java)
