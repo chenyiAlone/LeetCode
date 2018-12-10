@@ -36,6 +36,8 @@
 
 `21.` [Merge Two Sorted Lists](src/easy/MergeTwoSortedLists.java)
 
+`23.` [Merge k Sorted Lists](src/hard/MergekSortedLists.java)
+
 `26.` [Remove Duplicates from Sorted Array](src/easy/RemoveDuplicatesFromSortedArray.java)
 
 `27.` [Remove Element](src/easy/RemoveElement.java)

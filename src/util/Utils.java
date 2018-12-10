@@ -78,6 +78,16 @@ public class Utils {
         }
         return list;
     }
+    public static ListNode initListNode(int ... nums) {
+        ListNode list = new ListNode(0);
+        ListNode temp = list;
+        for (int i : nums) {
+            temp.next = new ListNode(i);
+            temp = temp.next;
+        }
+        return list.next;
+    }
+    
     
     /**
      * 将数组随机打乱
