@@ -28,6 +28,8 @@
 
 `14.` [Longest Common Prefix](src/easy/LongestCommonPrefix.java)
 
+`15.` [3Sum](src/medium/ThreeSum.java)
+
 `17.` [Letter Combinations of a Phone Number](src/medium/LetterCombinationsofaPhoneNumber.java)
 
 `19.` [Remove Nth Node From End of List](src/medium/RemoveNthNodeFromEndofList.java)
