@@ -52,6 +52,8 @@
 
 `29.` [Divide Two Integers](src/medium/DivideTwoIntegers.java)
 
+`34.` [Find First and Last Position of Element in Sorted Array](src/medium/FindFirstandLastPositionofElementinSortedArray.java)
+
 `35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
 
 
