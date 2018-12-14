@@ -56,6 +56,8 @@
 
 `35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
 
+`46.` [Permutations](src/medium/Permutations.java)
+
 
 ---
 
