@@ -29,7 +29,18 @@ public class Utils {
         }
         System.out.println();
     }
-    
+
+    /**
+     * 遍历打印布尔数组的所有元素
+     * @param array
+     */
+    public static void printArray(boolean[] array) {
+        for (boolean t : array) {
+            int  i = t ?  1 : 0;
+            System.out.print(i + " ");
+        }
+        System.out.println();
+    }
     /**
      * 
      * @param array
