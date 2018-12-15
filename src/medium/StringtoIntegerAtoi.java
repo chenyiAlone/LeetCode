@@ -9,17 +9,35 @@ package medium;
 public class StringtoIntegerAtoi {
     // +-  越界 
     public int myAtoi(String str) {
-        if (str.length() == 0 || str == null) return 0;
-        int sgin = 1;
-        int firstNum = 0;
+        
+        int sign = 1;
+        int start = 0;
+        long ans = 0;
+        
         str = str.trim();
-        char c = str.charAt(0);
-        if (c == '-') {
-            sgin = -1;
-        } else {
-            
+        if (str.length() == 0 || str == null) return 0; // 必须放在取出首位空字符之后
+        char firstChar = str.charAt(0);
+        if (firstChar == '-') {
+            sign = -1;
+            start++;
+        } else if (firstChar == '+'){
+            start++;
+        }
+        for (int i = start; i < str.length(); i++) {
+            if (!Character.isDigit(str.charAt(i))) {
+                return (int)ans * sign;
+            }
+            ans = ans * 10 + (str.charAt(i) - '0');
+            if (sign == 1 && ans > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+            if (sign == -1 && ans * -1 < Integer.MIN_VALUE) return Integer.MIN_VALUE;
         }
         
-        return 0;
+        return (int)ans * sign;
+    }
+    public static void main(String[] args) {
+        String str = "";
+        System.out.println(str.charAt(1));
+        System.out.println(str.length());
+        System.out.println(new StringtoIntegerAtoi().myAtoi(str));
     }
 }
