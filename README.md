@@ -20,6 +20,8 @@
 
 `9.` [Palindrome Number](src/easy/PalindromeNumber.java)
 
+`10.` [Regular Expression Matching](src/hard/RegularExpressionMatching.java)
+
 `11.` [Container With Most Water](src/medium/ContainerWithMostWater.java)
 
 `12.` [Integer to Roman](src/medium/IntegertoRoman.java)
