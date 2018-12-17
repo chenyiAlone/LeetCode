@@ -62,6 +62,8 @@
 
 `46.` [Permutations II](src/medium/PermutationsII.java)
 
+`58.` [Length of Last Word](src/easy/LengthofLastWord.java)
+
 ---
 
 *2018.11.29  `updata`*
