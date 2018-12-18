@@ -4,6 +4,18 @@
 
     碰到不会的题目可能会跳着刷，列一下已完成的列表
 
+
+## Navigation
+
+|       Navigation       |  
+|:----------------------:|
+|   [0 - 50](#0-50)      |
+|   [51 - 100](#51-100)  |
+
+---
+
+## 0-50
+
 `1.` [Two Sum](src/easy/TwoSum.java)
 
 `2.` [Add Two Numbers](src/easy/AddTwoNumbers.java)
@@ -62,9 +74,17 @@
 
 `46.` [Permutations II](src/medium/PermutationsII.java)
 
+[返回目录](#navigation)
+
+
+
+## 51-100
+
 `53.` [Maximum Subarray](src/easy/MaximumSubarray.java)
 
 `58.` [Length of Last Word](src/easy/LengthofLastWord.java)
+
+[返回目录](#navigation)
 
 ---
 
