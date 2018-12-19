@@ -84,6 +84,8 @@
 
 `58.` [Length of Last Word](src/easy/LengthofLastWord.java)
 
+`66.` [Plus One](src/easy/PlusOne.java)
+
 [返回目录](#navigation)
 
 ---
