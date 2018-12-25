@@ -76,6 +76,8 @@
 
 `46.` [Permutations II](src/medium/PermutationsII.java)
 
+`50.` [Pow(x, n)](src/medium/PowXN.java)
+
 [返回目录](#navigation)
 
 
