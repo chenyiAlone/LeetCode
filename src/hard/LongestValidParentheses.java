@@ -10,6 +10,45 @@ import java.util.LinkedList;
  * Description: No.32 暂时未完成...
  */
 public class LongestValidParentheses {
+    
+    public int longestValidParentheses(String s) {
+        LinkedList<Character> stack = new LinkedList<>();
+        int ans = 0;
+        int count = 0;
+        boolean flag = false;
+        for (int i = 0; i < s.length(); i++) {
+            System.out.println(i);
+            Character c = s.charAt(i);
+            System.out.println("c = " + c);
+            if (c.charValue() == '(') {
+                if (flag) {
+                    flag = !flag;
+                } else {
+                    ans = Math.max(ans, count);
+                    count = 0;
+                }
+                stack.push(c);
+            } else if (c.charValue() == ')') {
+                Character headC = stack.peek();
+                System.out.println("headC = " + headC);
+                if (headC != null && headC.charValue() == '(') {
+                    stack.pop();
+                    count += 2;
+                    flag = true;
+                } else {
+                    ans = Math.max(ans, count);
+                    count = 0;
+                    stack.push(c);
+                    flag = false;
+                }
+                System.out.println("ans" + ans);
+//                System.out.println("i = " + i + "  c = " + c  + "  headC = " + stack.peek() + "  stack = " + stack);
+            }
+        }
+        ans = Math.max(ans, count);
+        return ans;
+    }
+    
     /*
     public int longestValidParentheses(String s) {
         int count = 0, ans = 0;
@@ -29,10 +68,10 @@ public class LongestValidParentheses {
             }
         }
         return ans;
-    }
+    }*/
     public static void main(String[] args) {
         String s = "()(()";
-        System.out.println(new LongestValidParentheses().longestValidParentheses(s));
+        System.out.println("ans = " +new LongestValidParentheses().longestValidParentheses(s));
     }
-    */
+    
 }
