@@ -92,6 +92,8 @@
 
 `66.` [Plus One](src/easy/PlusOne.java)
 
+`67.` [Add Binary](src/easy/AddBinary.java)
+
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
 [返回目录](#navigation)
