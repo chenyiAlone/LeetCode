@@ -94,6 +94,8 @@
 
 `67.` [Add Binary](src/easy/AddBinary.java)
 
+`69.` [Sqrt(X)](src/easy/SqrtX.java)
+
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
 [返回目录](#navigation)
