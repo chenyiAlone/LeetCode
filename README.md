@@ -11,6 +11,7 @@
 |:----------------------:|
 |   [0 - 50](#0-50)      |
 |   [51 - 100](#51-100)  |
+|   [101 - 150](#51-100) |
 
 ---
 
@@ -99,6 +100,11 @@
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
 [返回目录](#navigation)
+
+
+## 101-150
+
+`136.` [Single Number](src/easy/SingleNumber.java)
 
 ---
 
