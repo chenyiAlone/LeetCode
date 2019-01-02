@@ -9,9 +9,10 @@
 
 |       Navigation       |  
 |:----------------------:|
-|   [0 - 50](#0-50)      |
-|   [51 - 100](#51-100)  |
-|   [101 - 150](#51-100) |
+|  [0 - 50](#0-50)       |
+|  [51 - 100](#51-100)   |
+|  [101 - 150](#51-100)  |
+|  [351 - 400](#351-400) |
 
 ---
 
@@ -104,7 +105,19 @@
 
 ## 101-150
 
+`118.` [Pascal's Triangle](src/easy/PascalsTriangle.java)
+
+`119.` [Pascal's Triangle II](src/easy/PascalsTriangleII.java)
+
 `136.` [Single Number](src/easy/SingleNumber.java)
+
+[返回目录](#navigation)
+
+## 351-400
+
+`387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
+
+[返回目录](#navigation)
 
 ---
 
