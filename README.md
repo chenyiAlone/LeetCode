@@ -112,6 +112,8 @@
 
 `136.` [Single Number](src/easy/SingleNumber.java)
 
+`141.` [Linked List Cyle](src/easy/LinkedListCycle.java)
+
 [返回目录](#navigation)
 
 ## 200-249
