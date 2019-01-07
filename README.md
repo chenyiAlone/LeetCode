@@ -99,6 +99,8 @@
 
 `69.` [Sqrt(X)](src/easy/SqrtX.java)
 
+`83.` [Remove Duplicates from Sorted List](src/easy/RemoveDuplicatesfromSortedList.java)
+
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
 [返回目录](#navigation)
