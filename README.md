@@ -93,6 +93,8 @@
 
 `58.` [Length of Last Word](src/easy/LengthofLastWord.java)
 
+`61.` [Rotate List](src/medium/RotateList.java)
+
 `66.` [Plus One](src/easy/PlusOne.java)
 
 `67.` [Add Binary](src/easy/AddBinary.java)
