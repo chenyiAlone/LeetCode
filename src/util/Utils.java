@@ -74,6 +74,17 @@ public class Utils {
         }
         return array;
     }
+    /**
+     * 遍历打印ListNode
+     * @param list  ListNode链表
+     */
+    public static void printListNodes(ListNode list) {
+        while (list != null) {
+            System.out.print(list.val + "->");
+            list = list.next;
+        }
+        System.out.println("NULL");
+    }
     
     /**
      * 初始化一个有n个结点的ListNode,结点的值为1-n
