@@ -114,6 +114,8 @@
 
 `104.` [Maximum Depth of Binary Tree](src/easy/MaximumDepthofBinaryTree.java)
 
+`111.` [Minimum Depth of Binary Tree](src/easy/MinimumDepthofBinaryTree.java)
+
 `118.` [Pascal's Triangle](src/easy/PascalsTriangle.java)
 
 `119.` [Pascal's Triangle II](src/easy/PascalsTriangleII.java)
