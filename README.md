@@ -14,6 +14,7 @@
 |  [100 - 149](#51-100)  |
 |  [200 - 249](#200-249) |
 |  [351 - 400](#351-400) |
+|  [750 - 800](#750-800) |
 
 ---
 
@@ -77,7 +78,7 @@
 
 `46.` [Permutations](src/medium/Permutations.java)
 
-`46.` [Permutations II](src/medium/PermutationsII.java)
+`47.` [Permutations II](src/medium/PermutationsII.java)
 
 `48.` [Rotate Image](src/medium/RotateImage.java)
 
@@ -135,6 +136,12 @@
 ## 351-400
 
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
+
+[返回目录](#navigation)
+
+## 750-800
+
+`771.` [Jewels and Stones](src/easy/JewelsandStones.java)
 
 [返回目录](#navigation)
 
