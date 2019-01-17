@@ -1,43 +1,38 @@
 package medium;
-import static util.Utils.*;
 
+import static util.Utils.*;
 import java.util.Arrays;
+
+/**
+ * 
+ * ClassName: ThreeSumClosest
+ * @author chenyiAlone  
+ * Create Time: 2019/01/17 19:51:20
+ * Description: No.16
+ * 总结：
+ * 1. res初始化为 0, 1, nums.length 三项下标数组元素之和
+ * 2. 使用双指针 lo, hi扫描
+ * 3. 比较 res 和 sum 跟target的差的绝对值 
+ */
 public class ThreeSumClosest {
     public int threeSumClosest(int[] nums, int target) {
-        if (nums == null) return -1;
-        int ans = nums[0] + nums[1] + nums[2];
-        Arrays.sort(nums);
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length - 1; j++) {
-                int apartSum = nums[i] + nums[j];
-                System.out.println("apartSum = " + apartSum);
-                int seed = target - apartSum;
-                System.out.println("seed = "  + seed);
-                int index = searchClosest(nums, j + 1, nums.length - 1, seed);
-                int sum = apartSum + nums[index];
-                ans = (Math.abs(target - sum) < Math.abs(target - ans)) ? sum : ans;
-            }
-        }
-        return ans;
-    }
-    public static int searchClosest(int[] nums, int lo, int hi, int target) {
-        int oldHi = hi, oldLo = lo;
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            System.out.println(lo + " + " + hi);
-            if (target < nums[mid]) hi = mid -1;
-            else if (nums[mid] < target) lo = mid + 1;
-            else {
-                hi = mid;
-                break;
-            }
-        }
-        if (hi < oldLo) hi = oldLo;
-        System.out.println("oldHi = " + oldHi);
-        if (hi < oldHi) {
-            hi = Math.abs(target - nums[hi]) < Math.abs(target - nums[hi + 1]) ? hi : hi + 1;
-        }
-        return hi;
+       int res = nums[0] + nums[1] + nums[nums.length - 1];
+       Arrays.sort(nums);
+       for (int i = 0; i < nums.length - 2; i++) {
+           int lo = i + 1, hi = nums.length - 1;
+           while (lo < hi) {
+               int sum = nums[i] + nums[lo] + nums[hi];
+               if (sum < target) {
+                   lo++;
+               } else {
+                   hi--;
+               }
+               if (Math.abs(target - sum) < Math.abs(target - res)) {
+                   
+               }
+           }
+       }
+       return res;
     }
     
     public static void main(String[] args) {

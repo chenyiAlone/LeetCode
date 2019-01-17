@@ -48,6 +48,8 @@
 
 `15.` [3Sum](src/medium/ThreeSum.java)
 
+`16.` [3Sum Closest](src/medium/ThreeSumClosest.java)
+
 `17.` [Letter Combinations of a Phone Number](src/medium/LetterCombinationsofaPhoneNumber.java)
 
 `19.` [Remove Nth Node From End of List](src/medium/RemoveNthNodeFromEndofList.java)
