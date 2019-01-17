@@ -1,8 +1,8 @@
 package medium;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
+import java.util.Arrays;
+import java.util.ArrayList;
 import static util.Utils.*;
 
 /**
@@ -11,7 +11,22 @@ import static util.Utils.*;
  * @author chenyiAlone  
  * Create Time: 2018/11/30 12:26:28
  * Description: No.15 勉强通过，时间复杂度太差
- * 
+ * Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+
+    Note:
+    
+    The solution set must not contain duplicate triplets.
+    
+    Example:
+    
+    Given array nums = [-1, 0, 1, 2, -1, -4],
+    
+    A solution set is:
+    [
+      [-1, 0, 1],
+      [-1, -1, 2]
+    ]
+ * *********************************
  * update 2019/1/17:
  *  1. 将数组首先进行排序
  *  2. 使用双指针lo, hi双向扫描，while将相同结果跳过
