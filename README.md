@@ -60,6 +60,8 @@
 
 `21.` [Merge Two Sorted Lists](src/easy/MergeTwoSortedLists.java)
 
+`22.` [Generate Parentheses](src/medium/GenerateParentheses.java)
+
 `23.` [Merge k Sorted Lists](src/hard/MergekSortedLists.java)
 
 `24.` [Swap Nodes in Pairs](src/medium/SwapNodesinPairs.java)
