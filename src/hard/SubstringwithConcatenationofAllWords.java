@@ -3,7 +3,7 @@ package hard;
 import static util.Utils.printArray;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -13,6 +13,10 @@ import java.util.Set;
  * @author chenyiAlone  
  * Create Time: 2018/12/21 12:42:55
  * Description: No.30
+ * 总结：
+ *     1. 使用了 Map 来进行计数和判定是否存在于数组中
+ *     2. 题目中的所有 word 的长度相等，简化了题目难度
+ *     
  * You are given a string, s, and a list of words, words, that are all of the same length. Find all starting indices of substring(s) in s that is a concatenation of each word in words exactly once and without any intervening characters.
     
     Example 1:
@@ -29,11 +33,44 @@ import java.util.Set;
       s = "wordgoodgoodgoodbestword",
       words = ["word","good","best","word"]
     Output: []
+    
  *=======================================
- *  采用的是暴力搜索，结果直接超时
+ *  第一次尝试：采用的是暴力搜索，结果直接超时
  */
 public class SubstringwithConcatenationofAllWords {
     public List<Integer> findSubstring(String s, String[] words) {
+        List<Integer> res = new ArrayList<>();
+        if (s == null || words.length < 0) return res;
+        HashMap<String, Integer> map = new HashMap<>();
+        for (String word : words) {
+            map.put(word, map.getOrDefault(word, 0) + 1);
+        }
+        int n  = words.length;
+        if (n == 0) return res;
+        int m = words[0].length();
+        for (int i = 0; i <= s.length() - m * n; i++) {
+            HashMap<String, Integer> copy = new HashMap<>(map);
+            int k = n;
+            int j = i;
+            while (k > 0) {
+                String str = s.substring(j, j + m);
+                if (!map.containsKey(str) || copy.get(str) < 1) break;
+                copy.put(str, copy.get(str) - 1);
+                k--;
+                j += m;
+            }
+            if (k == 0) res.add(i);
+        }
+        return res;
+    }
+    
+    public static void main(String[] args) {
+        String s = "wordgoodgoodgoodbestword";
+        String[] words = {"word","good","best","good"};
+        System.out.println(new SubstringwithConcatenationofAllWords().findSubstring(s, words));
+    }
+
+    public List<Integer> findSubstring_Low(String s, String[] words) {
         
         List<Integer> ans = new ArrayList<>();
         Set<String> set = new HashSet<>();
@@ -129,11 +166,5 @@ public class SubstringwithConcatenationofAllWords {
                 }
             }
         }
-    }
-    
-    public static void main(String[] args) {
-        String s = "wordgoodgoodgoodbestword";
-        String[] words = {"word","good","best","good"};
-        System.out.println(new SubstringwithConcatenationofAllWords().findSubstring(s, words));
     }
 }
