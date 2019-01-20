@@ -78,6 +78,8 @@
 
 `30.` [Substring with Concatenation of All Words](src/hard/SubstringwithConcatenationofAllWords.java)
 
+`31.` [Next Permutation](src/hard/NextPermutation.java)
+
 `34.` [Find First and Last Position of Element in Sorted Array](src/medium/FindFirstandLastPositionofElementinSortedArray.java)
 
 `35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
