@@ -76,7 +76,7 @@
 
 `29.` [Divide Two Integers](src/medium/DivideTwoIntegers.java)
 
-`30.` [Substring with Concatenation of All Words(timeout->未完成)](src/hard/SubstringwithConcatenationofAllWords.java)
+`30.` [Substring with Concatenation of All Words](src/hard/SubstringwithConcatenationofAllWords.java)
 
 `34.` [Find First and Last Position of Element in Sorted Array](src/medium/FindFirstandLastPositionofElementinSortedArray.java)
 
