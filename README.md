@@ -80,6 +80,8 @@
 
 `31.` [Next Permutation](src/hard/NextPermutation.java)
 
+`32.` [Longest Valid Parentheses](src/hard/LongestValidParentheses.java)
+
 `34.` [Find First and Last Position of Element in Sorted Array](src/medium/FindFirstandLastPositionofElementinSortedArray.java)
 
 `35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
