@@ -86,6 +86,8 @@
 
 `35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
 
+`42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
+
 `46.` [Permutations](src/medium/Permutations.java)
 
 `47.` [Permutations II](src/medium/PermutationsII.java)
