@@ -1,4 +1,7 @@
 package hard;
+
+import java.util.Stack;
+
 /**
  * 
  * ClassName: TrappingRainWater
@@ -20,6 +23,22 @@ package hard;
     Output: 6
  */
 public class TrappingRainWater {
+    public int trap_Stack(int[] height) {
+        int res = 0;
+        Stack<Integer> stack = new Stack<>();
+        for(int i = 0; i < height.length; i ++) {
+            if(!stack.isEmpty() && height[i] > height[stack.peek()]) {
+                while(!stack.isEmpty() && height[i] > height[stack.peek()]) {
+                    int mid = stack.pop();
+                    if(!stack.isEmpty()) {
+                        res += (Math.min(height[stack.peek()], height[i]) - height[mid]) * (i - stack.peek() - 1);
+                    }
+                }
+            }
+            stack.push(i);
+        }
+        return res;
+    }
     public int trap(int[] height) {
         int left = 0;
         int right = height.length - 1;
@@ -41,6 +60,7 @@ public class TrappingRainWater {
     }
     public static void main(String[] args) {
         int[] height = {0,1,0,2,1,0,1,3,2,1,2,1};
-        System.out.println(new TrappingRainWater().trap(height));
+//        System.out.println(new TrappingRainWater().trap(height));
+        System.out.println(new TrappingRainWater().trap_Stack(height));
     }
 }
