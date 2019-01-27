@@ -114,6 +114,8 @@
 
 `69.` [Sqrt(X)](src/easy/SqrtX.java)
 
+`71.` [Simplify Path](src/medium/SimplifyPath.java)
+
 `83.` [Remove Duplicates from Sorted List](src/easy/RemoveDuplicatesfromSortedList.java)
 
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
