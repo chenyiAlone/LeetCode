@@ -118,6 +118,8 @@
 
 `83.` [Remove Duplicates from Sorted List](src/easy/RemoveDuplicatesfromSortedList.java)
 
+`84.` [Largest Rectangle in Histogram](src/hard/LargestRectangleinHistogram.java)
+
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
 `89.` [Parition List](src/medium/ParitionList.java)
