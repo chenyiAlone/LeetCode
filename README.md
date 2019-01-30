@@ -120,6 +120,8 @@
 
 `84.` [Largest Rectangle in Histogram](src/hard/LargestRectangleinHistogram.java)
 
+`85.` [Maximal Rectangle](src/hard/MaximalRectangle.java)
+
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
 `89.` [Parition List](src/medium/ParitionList.java)
