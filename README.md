@@ -159,6 +159,8 @@
 
 `141.` [Linked List Cyle](src/easy/LinkedListCycle.java)
 
+`144.` [Binary Tree Preorder Traversal](src/medium/BinaryTreePreorderTraversal.java)
+
 [返回目录](#navigation)
 
 ## 150-199
