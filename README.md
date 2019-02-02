@@ -88,6 +88,8 @@
 
 `42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
 
+![接雨水](imgs/42.gif)
+
 `46.` [Permutations](src/medium/Permutations.java)
 
 `47.` [Permutations II](src/medium/PermutationsII.java)
@@ -121,6 +123,8 @@
 `84.` [Largest Rectangle in Histogram](src/hard/LargestRectangleinHistogram.java)
 
 `85.` [Maximal Rectangle](src/hard/MaximalRectangle.java)
+
+![最大矩形](imgs/85.gif)
 
 `88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
@@ -161,6 +165,8 @@
 
 `144.` [Binary Tree Preorder Traversal](src/medium/BinaryTreePreorderTraversal.java)
 
+![二叉树前序遍历](imgs/144.gif)
+
 [返回目录](#navigation)
 
 ## 150-199
@@ -176,6 +182,8 @@
 `203.` [Remove Linked List Elements](src/easy/RemoveLinkedListElements.java)
 
 `206.` [Reverse Linked List](src/easy/ReverseLinkedList.java)
+
+![反转链表](imgs/206.gif)
 
 [返回目录](#navigation)
 
