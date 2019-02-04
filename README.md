@@ -13,6 +13,7 @@
 |  [50 - 99](#51-100)    |
 |  [100 - 149](#100-149) |
 |  [200 - 249](#200-249) |
+|  [250 - 299](#250-299)|
 |  [351 - 400](#351-400) |
 |  [750 - 800](#750-800) |
 
@@ -186,6 +187,8 @@
 `203.` [Remove Linked List Elements](src/easy/RemoveLinkedListElements.java)
 
 `206.` [Reverse Linked List](src/easy/ReverseLinkedList.java)
+
+`283.` [Move Zeroes](src/easy/MoveZeroes.java)
 
 ![反转链表](imgs/206.gif)
 
