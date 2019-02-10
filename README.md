@@ -194,6 +194,8 @@
 
 `206.` [Reverse Linked List](src/easy/ReverseLinkedList.java)
 
+`225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
+
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
 
 ![反转链表](imgs/206.gif)
