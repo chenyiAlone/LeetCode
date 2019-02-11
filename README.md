@@ -196,6 +196,8 @@
 
 `225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
 
+`232.` [Implement Queue using Stacks](src/easy/ImplementQueueusingStacks.java)
+
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
 
 ![反转链表](imgs/206.gif)
