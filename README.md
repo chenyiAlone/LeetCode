@@ -13,8 +13,9 @@
 |  [50 - 99](#51-100)    |
 |  [100 - 149](#100-149) |
 |  [200 - 249](#200-249) |
-|  [250 - 299](#250-299)|
+|  [250 - 299](#250-299) |
 |  [351 - 400](#351-400) |
+|  [650 - 699](#650-699) |
 |  [750 - 800](#750-800) |
 
 ---
@@ -207,6 +208,12 @@
 ## 351-400
 
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
+
+[返回目录](#navigation)
+
+## 650-699
+
+`682.` [Baseball Game](src/easy/BaseballGame.java)
 
 [返回目录](#navigation)
 
