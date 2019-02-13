@@ -16,7 +16,8 @@
 |  [250 - 299](#250-299) |
 |  [351 - 400](#351-400) |
 |  [650 - 699](#650-699) |
-|  [750 - 800](#750-800) |
+|  [750 - 799](#750-799) |
+|  [801 - 850](#801-850) |
 
 ---
 
@@ -217,9 +218,15 @@
 
 [返回目录](#navigation)
 
-## 750-800
+## 750-799
 
 `771.` [Jewels and Stones](src/easy/JewelsandStones.java)
+
+[返回目录](#navigation)
+
+## 800-849
+
+`844.` [Backspace String Compare](src/easy/BackspaceStringCompare.java)
 
 [返回目录](#navigation)
 
