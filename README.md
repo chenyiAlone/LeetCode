@@ -14,7 +14,8 @@
 |  [100 - 149](#100-149) |
 |  [200 - 249](#200-249) |
 |  [250 - 299](#250-299) |
-|  [351 - 400](#351-400) |
+|  [350 - 399](#350-399) |
+|  [450 - 499](#450-499) |
 |  [650 - 699](#650-699) |
 |  [750 - 799](#750-799) |
 |  [800 - 849](#800-849) |
@@ -206,9 +207,15 @@
 
 [返回目录](#navigation)
 
-## 351-400
+## 350-399
 
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
+
+[返回目录](#navigation)
+
+## 450-499
+
+`496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
 
 [返回目录](#navigation)
 
