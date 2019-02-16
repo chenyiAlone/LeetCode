@@ -17,6 +17,7 @@
 |  [350 - 399](#350-399) |
 |  [450 - 499](#450-499) |
 |  [650 - 699](#650-699) |
+|  [700 - 749](#700-749) |
 |  [750 - 799](#750-799) |
 |  [800 - 849](#800-849) |
 
@@ -222,6 +223,12 @@
 ## 650-699
 
 `682.` [Baseball Game](src/easy/BaseballGame.java)
+
+[返回目录](#navigation)
+
+## 700-749
+
+`735.` [Asteroid Collision](src/medium/AsteroidCollision.java)
 
 [返回目录](#navigation)
 
