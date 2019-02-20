@@ -196,6 +196,8 @@
 
 `203.` [Remove Linked List Elements](src/easy/RemoveLinkedListElements.java)
 
+`204.` [Count Primes](src/easy/CountPrimes.java)
+
 `206.` [Reverse Linked List](src/easy/ReverseLinkedList.java)
 
 `225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
