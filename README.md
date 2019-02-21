@@ -223,6 +223,8 @@
 
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
 
+`389.` [Find the Difference](src/easy/FindtheDifference.java)
+
 [返回目录](#navigation)
 
 ## 450-499
