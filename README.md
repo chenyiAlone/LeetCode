@@ -208,6 +208,8 @@
 
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
 
+`287.` [Find the Duplicate Number](src/medium/FindtheDuplicateNumber.java)
+
 ![反转链表](imgs/206.gif)
 
 [返回目录](#navigation)
