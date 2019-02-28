@@ -204,6 +204,8 @@
 
 `226.` [Invert Binary Tree](src/easy/InvertBinaryTree.java)
 
+`231.` [Power of Two](src/easy/PowerofTwo.java)
+
 `232.` [Implement Queue using Stacks](src/easy/ImplementQueueusingStacks.java)
 
 `237.` [Delete Node in a Linked List](src/easy/DeleteNodeinaLinkedList.java)
