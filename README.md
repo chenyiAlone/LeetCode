@@ -186,6 +186,8 @@
 
 `167.` [Two Sum II - Input array is sorted](src/easy/TwoSumIIInputarrayissorted.java)
 
+`169.` [Majority Element](src/easy/MajorityElement.java)
+
 `173.` [Binary Search Tree Iterator](src/medium/BinarySearchTreeIterator.java)
 
 `189.` [Rotate Array](src/easy/RotateArray.java)
