@@ -202,6 +202,8 @@
 
 `206.` [Reverse Linked List](src/easy/ReverseLinkedList.java)
 
+`217.` [Contains Duplicate](src/easy/ContainsDuplicate.java)
+
 `225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
 
 `226.` [Invert Binary Tree](src/easy/InvertBinaryTree.java)
