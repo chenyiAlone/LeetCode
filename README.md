@@ -217,7 +217,9 @@
 
 `237.` [Delete Node in a Linked List](src/easy/DeleteNodeinaLinkedList.java)
 
-`238.` [Product of Array Except Self](src/medium/ProductofArrayExcptSelf.java)
+`238.` [Product of Array Except Self](src/medium/ProductofArrayExceptSelf.java)
+
+`258.` [Add Digits](src/easy/AddDigits.java)
 
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
 
