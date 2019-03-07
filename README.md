@@ -207,6 +207,8 @@
 
 `217.` [Contains Duplicate](src/easy/ContainsDuplicate.java)
 
+`219.` [Contains Duplicate II](src/easy/ContainsDuplicateII.java)
+
 `225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
 
 `226.` [Invert Binary Tree](src/easy/InvertBinaryTree.java)
