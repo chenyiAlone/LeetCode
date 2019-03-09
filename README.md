@@ -223,6 +223,8 @@
 
 `238.` [Product of Array Except Self](src/medium/ProductofArrayExceptSelf.java)
 
+`242.` [Vaild Anagram](src/easy/VaildAnagram.java)
+
 `258.` [Add Digits](src/easy/AddDigits.java)
 
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
