@@ -254,6 +254,12 @@
 
 [返回目录](#navigation)
 
+## 400-449
+
+`434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
+
+[返回目录](#navigation)
+
 ## 450-499
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
