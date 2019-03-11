@@ -167,6 +167,8 @@
 
 `122.` [Best Time to Buy and Sell Stock II](src/easy/BestTimetoBuyandSellStockII.java)
 
+`125.` [Valid Palindrome](src/easy/ValidPalindrome.java)
+
 `136.` [Single Number](src/easy/SingleNumber.java)
 
 `141.` [Linked List Cyle](src/easy/LinkedListCycle.java)
