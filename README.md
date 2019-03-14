@@ -124,6 +124,8 @@
 
 `71.` [Simplify Path](src/medium/SimplifyPath.java)
 
+`82.` [Remove Duplicates from Sorted List II](src/medium/RemoveDuplicatesfromSortedListII.java)
+
 `83.` [Remove Duplicates from Sorted List](src/easy/RemoveDuplicatesfromSortedList.java)
 
 `84.` [Largest Rectangle in Histogram](src/hard/LargestRectangleinHistogram.java)
