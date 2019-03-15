@@ -92,6 +92,8 @@
 
 `35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
 
+`36.` [Valid Sudoku](src/medium/ValidSudoku.java)
+
 `42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
 
 ![接雨水](imgs/42.gif)
