@@ -195,6 +195,8 @@
 
 `155.` [Min Stack](src/easy/MinStack.java)
 
+`160.` [Intersetion of Two Linked Lists](src/medium/IntersectionofTwoLinkedLists.java)
+
 `167.` [Two Sum II - Input array is sorted](src/easy/TwoSumIIInputarrayissorted.java)
 
 `169.` [Majority Element](src/easy/MajorityElement.java)
