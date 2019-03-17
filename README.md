@@ -241,6 +241,8 @@
 
 `287.` [Find the Duplicate Number](src/medium/FindtheDuplicateNumber.java)
 
+`290.` [Word Pattern](src/easy/WordPattern.java)
+
 ![反转链表](imgs/206.gif)
 
 [返回目录](#navigation)
