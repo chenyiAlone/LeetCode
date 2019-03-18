@@ -88,6 +88,8 @@
 
 `32.` [Longest Valid Parentheses](src/hard/LongestValidParentheses.java)
 
+`33.` [Search in Rotated Sorted Array](src/medium/SearchinRotatedSortedArray.java)
+
 `34.` [Find First and Last Position of Element in Sorted Array](src/medium/FindFirstandLastPositionofElementinSortedArray.java)
 
 `35.` [Search Insert Position](src/easy/SearchInsertPosition.java)
