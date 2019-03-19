@@ -53,6 +53,19 @@ public class Utils {
     }
     
     /**
+     * 打印一个 Char 类型的二维数组
+     */
+    public static void printCharArray(char[][] board) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                System.out.print(board[i][j] + " ");
+            }
+            System.out.println();
+        }
+        
+    }
+    
+    /**
      * 初始化一个是否有序的数组
      * @param n     数组元素的个数
      * @param order 是否有序

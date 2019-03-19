@@ -96,6 +96,8 @@
 
 `36.` [Valid Sudoku](src/medium/ValidSudoku.java)
 
+`37.` [Sudoku Solver](src/hard/SudokuSolver.java)
+
 `42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
 
 ![接雨水](imgs/42.gif)
