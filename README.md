@@ -98,6 +98,8 @@
 
 `37.` [Sudoku Solver](src/hard/SudokuSolver.java)
 
+`39.` [Combination Sum](src/medium/CombinationSum.java)
+
 `42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
 
 ![接雨水](imgs/42.gif)
