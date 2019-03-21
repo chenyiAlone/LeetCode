@@ -100,6 +100,8 @@
 
 `39.` [Combination Sum](src/medium/CombinationSum.java)
 
+`40.` [Combination Sum II](src/medium/CombinationSumII.java)
+
 `42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
 
 ![接雨水](imgs/42.gif)
