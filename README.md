@@ -102,6 +102,8 @@
 
 `40.` [Combination Sum II](src/medium/CombinationSumII.java)
 
+`41.` [First Missing Positive](src/hard/FirstMissingPositive.java)
+
 `42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
 
 ![接雨水](imgs/42.gif)
