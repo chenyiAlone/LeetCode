@@ -116,6 +116,8 @@
 
 `50.` [Pow(x, n)](src/medium/PowXN.java)
 
+`51.` [N-Queens](src/hard/NQueens.java)
+
 [返回目录](#navigation)
 
 
