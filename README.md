@@ -126,6 +126,8 @@
 
 `53.` [Maximum Subarray](src/easy/MaximumSubarray.java)
 
+`55.` [Jump Game](src/medium/JumpGame.java)
+
 `58.` [Length of Last Word](src/easy/LengthofLastWord.java)
 
 `61.` [Rotate List](src/medium/RotateList.java)
