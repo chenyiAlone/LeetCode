@@ -6,8 +6,9 @@ package medium;
  * Create Time: 2019/03/20 16:44:38
  * Description: No.55
  * 思路：
- *     首先想使用 DFS ,可这样当数组元素的值达到 n 的时候,最坏情况下的时间复杂度高达 2 ^ n 
+ *     首先想使用 DFS ,可这样当数组元素的值达到 n 的时候,最坏情况下的时间复杂度高达 2 ^ n ，这个做法不能满足题目的要求
  *     
+ *     使用贪心算法，维持一个当前的最远路径
  *     
  * Given an array of non-negative integers, you are initially positioned at the first index of the array.
     
@@ -31,7 +32,20 @@ package medium;
 public class JumpGame {
     
     private boolean check = false;
+    
     public boolean canJump(int[] nums) {
+        int[] m = new int[nums.length + 1];
+        for (int i = 0; i < nums.length; i++) {
+            m[i] = nums[i] + i;
+        }
+        int longest = 0;
+        for (int i = 0; i <= longest && longest <nums.length - 1; i++) {
+            longest = Math.max(longest, m[i]);
+        }
+        return longest >= nums.length - 1;
+    }
+    
+    public boolean canJump1(int[] nums) {
         if (nums.length < 2) return true;
         jumpDFS(0, nums);
         return check;

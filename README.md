@@ -124,6 +124,10 @@
 
 `53.` [Maximum Subarray](src/easy/MaximumSubarray.java)
 
+`56.` [Merge Intervals](src/medium/MergeIntervals.java)
+
+`57.` [Insert Interval](src/hard/InsertInterval.java)
+
 `58.` [Length of Last Word](src/easy/LengthofLastWord.java)
 
 `61.` [Rotate List](src/medium/RotateList.java)
