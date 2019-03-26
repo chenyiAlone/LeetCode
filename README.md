@@ -121,10 +121,13 @@
 [返回目录](#navigation)
 
 
-
 ## 51-100
 
+`51.` [N-Queens](src/hard/NQueens.java)
+
 `53.` [Maximum Subarray](src/easy/MaximumSubarray.java)
+
+`55.` [Jump Game](src/medium/JumpGame.java)
 
 `56.` [Merge Intervals](src/medium/MergeIntervals.java)
 
