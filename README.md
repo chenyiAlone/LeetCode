@@ -98,6 +98,8 @@
 
 `37.` [Sudoku Solver](src/hard/SudokuSolver.java)
 
+`38.` [Count and Say](src/easy/CountandSay.java)
+
 `39.` [Combination Sum](src/medium/CombinationSum.java)
 
 `40.` [Combination Sum II](src/medium/CombinationSumII.java)
