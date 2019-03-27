@@ -129,6 +129,8 @@
 
 `53.` [Maximum Subarray](src/easy/MaximumSubarray.java)
 
+`54.` [Spiral Matrix](src/medium/SpiralMatrix.java)
+
 `55.` [Jump Game](src/medium/JumpGame.java)
 
 `56.` [Merge Intervals](src/medium/MergeIntervals.java)
