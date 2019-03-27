@@ -125,6 +125,8 @@
 
 `51.` [N-Queens](src/hard/NQueens.java)
 
+`52.` [N-Queens II](src/hard/NQueensII.java)
+
 `53.` [Maximum Subarray](src/easy/MaximumSubarray.java)
 
 `55.` [Jump Game](src/medium/JumpGame.java)
