@@ -139,6 +139,8 @@
 
 `58.` [Length of Last Word](src/easy/LengthofLastWord.java)
 
+`59.` [Spiral Matrix II](src/medium/SpiralMatrixII.java)
+
 `61.` [Rotate List](src/medium/RotateList.java)
 
 `66.` [Plus One](src/easy/PlusOne.java)
