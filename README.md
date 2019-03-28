@@ -143,6 +143,8 @@
 
 `59.` [Spiral Matrix II](src/medium/SpiralMatrixII.java)
 
+`60.` [Permutation Sequence](src/medium/PermutationSequence.java)
+
 `61.` [Rotate List](src/medium/RotateList.java)
 
 `66.` [Plus One](src/easy/PlusOne.java)
