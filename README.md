@@ -147,6 +147,8 @@
 
 `61.` [Rotate List](src/medium/RotateList.java)
 
+`62.` [Unique Paths](src/medium/UniquePaths.java)
+
 `66.` [Plus One](src/easy/PlusOne.java)
 
 `67.` [Add Binary](src/easy/AddBinary.java)
