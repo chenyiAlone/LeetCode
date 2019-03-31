@@ -149,7 +149,9 @@
 
 `62.` [Unique Paths](src/medium/UniquePaths.java)
 
-'63.' [Unique Paths II](src/medium/UniquePathII.java)
+`63.` [Unique Paths II](src/medium/UniquePathsII.java)
+
+`64.` [Minimum Path Sum](src/medium/MinimumPathSum.java)
 
 `66.` [Plus One](src/easy/PlusOne.java)
 
