@@ -4,7 +4,12 @@ package easy;
  * ClassName: AddBinary
  * @author chenyiAlone  
  * Create Time: 2018/12/27 22:54:31
- * Description: No.67
+ * Description: No.67 
+ *  思路：
+ *   1. 逆向遍历两个 str,直到两个字符串都到达 start
+ *   2. car 用于记录进位，sum 用来计算当前位和进位的值，并更新当前位
+ *   3. StringBuilder 反转数组
+ *   
  * Given two binary strings, return their sum (also a binary string).
 
     The input strings are both non-empty and contains only characters 1 or 0.

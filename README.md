@@ -153,6 +153,8 @@
 
 `64.` [Minimum Path Sum](src/medium/MinimumPathSum.java)
 
+`65.` [Vaild Number](src/hard/VaildNumber.java)
+
 `66.` [Plus One](src/easy/PlusOne.java)
 
 `67.` [Add Binary](src/easy/AddBinary.java)
