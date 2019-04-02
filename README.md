@@ -159,6 +159,8 @@
 
 `67.` [Add Binary](src/easy/AddBinary.java)
 
+`68.` [Text Justilication](src/hard/TextJustification.java)
+
 `69.` [Sqrt(X)](src/easy/SqrtX.java)
 
 `71.` [Simplify Path](src/medium/SimplifyPath.java)
