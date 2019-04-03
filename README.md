@@ -167,6 +167,8 @@
 
 `73.` [Set Matrix Zeroes](src/medium/SetMatrixZeroes.java)
 
+`74.` [Search a 2D Matrix](src/medium/Searcha2DMatrix.java)
+
 `82.` [Remove Duplicates from Sorted List II](src/medium/RemoveDuplicatesfromSortedListII.java)
 
 `83.` [Remove Duplicates from Sorted List](src/easy/RemoveDuplicatesfromSortedList.java)
