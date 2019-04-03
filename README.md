@@ -165,6 +165,8 @@
 
 `71.` [Simplify Path](src/medium/SimplifyPath.java)
 
+`73.` [Set Matrix Zeroes](src/medium/SetMatrixZeroes.java)
+
 `82.` [Remove Duplicates from Sorted List II](src/medium/RemoveDuplicatesfromSortedListII.java)
 
 `83.` [Remove Duplicates from Sorted List](src/easy/RemoveDuplicatesfromSortedList.java)
