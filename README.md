@@ -171,7 +171,9 @@
 
 `75.` [Sort Colors](src/medium/SortColors.java)
 
-'77.' [Submission Detail](src/medium/SubmissionDetail.java)
+`77.` [Submission Detail](src/medium/SubmissionDetail.java)
+
+`78.` [Subsets](src/medium/Subsets.java)
 
 `82.` [Remove Duplicates from Sorted List II](src/medium/RemoveDuplicatesfromSortedListII.java)
 
