@@ -175,6 +175,8 @@
 
 `78.` [Subsets](src/medium/Subsets.java)
 
+`80.` [Remove Duplicates from Sorted Array II](src/medium/RemoveDuplicatedfromSortedArrayII.java)
+
 `82.` [Remove Duplicates from Sorted List II](src/medium/RemoveDuplicatesfromSortedListII.java)
 
 `83.` [Remove Duplicates from Sorted List](src/easy/RemoveDuplicatesfromSortedList.java)
@@ -185,9 +187,9 @@
 
 ![最大矩形](imgs/85.gif)
 
-`88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
+`86.` [Parition List](src/medium/ParitionList.java)
 
-`89.` [Parition List](src/medium/ParitionList.java)
+`88.` [Merge Sorted Array](src/easy/MergeSortedArray.java)
 
 `92.` [Reverse Linked Lsit II](src/medium/ReverseLinkedListII.java)
 
