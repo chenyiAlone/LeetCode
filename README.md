@@ -171,7 +171,7 @@
 
 `75.` [Sort Colors](src/medium/SortColors.java)
 
-`77.` [Submission Detail](src/medium/SubmissionDetail.java)
+`77.` [Combinations](src/medium/Combinations.java)
 
 `78.` [Subsets](src/medium/Subsets.java)
 
