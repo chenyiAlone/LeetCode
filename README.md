@@ -175,6 +175,8 @@
 
 `78.` [Subsets](src/medium/Subsets.java)
 
+`79.` [Word Search](src/medium/WordSearch.java)
+
 `80.` [Remove Duplicates from Sorted Array II](src/medium/RemoveDuplicatedfromSortedArrayII.java)
 
 `82.` [Remove Duplicates from Sorted List II](src/medium/RemoveDuplicatesfromSortedListII.java)
