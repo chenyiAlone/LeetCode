@@ -201,6 +201,8 @@
 
 `91.` [Decode Ways](src/medium/DecodeWays.java)
 
+![Decode Ways](imgs/91.png)
+
 `92.` [Reverse Linked Lsit II](src/medium/ReverseLinkedListII.java)
 
 `94.` [Binary Tree Inorder Traversal](src/medium/BinaryTreeInorderTraversal.java)
