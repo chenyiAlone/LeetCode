@@ -234,6 +234,8 @@
 
 `104.` [Maximum Depth of Binary Tree](src/easy/MaximumDepthofBinaryTree.java)
 
+`105.` [Construct Binary Tree from Preorder and Inorder Traversal](src/medium/\ConstructBinaryTreefromPreorderandInorderTraversal.java)
+
 `107.` [Binary Tree Level Order Traversal II](src/medium/BinaryTreeLevelOrderTraversalII.java)
 
 `110.` [Balanced Binary Tree](src/easy/BalancedBinaryTree.java)
