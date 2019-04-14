@@ -163,6 +163,8 @@
 
 `69.` [Sqrt(X)](src/easy/SqrtX.java)
 
+`70.` [Climbing Stairs](src/easy/ClimbingStairs.java)
+
 `71.` [Simplify Path](src/medium/SimplifyPath.java)
 
 `73.` [Set Matrix Zeroes](src/medium/SetMatrixZeroes.java)
