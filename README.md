@@ -236,6 +236,10 @@
 
 `105.` [Construct Binary Tree from Preorder and Inorder Traversal](src/medium/\ConstructBinaryTreefromPreorderandInorderTraversal.java)
 
+![Construct Binary Tree from Preorder and Inorder Traversal](imgs/105.png)
+
+`106.` [Construct Binary Tree from Inorder and Postorder Traversal](src/medium/ConstructBinaryTreefromInorderandPostorderTraversal.java)
+
 `107.` [Binary Tree Level Order Traversal II](src/medium/BinaryTreeLevelOrderTraversalII.java)
 
 `110.` [Balanced Binary Tree](src/easy/BalancedBinaryTree.java)
