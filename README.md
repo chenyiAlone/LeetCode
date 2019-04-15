@@ -246,10 +246,21 @@
 
 `107.` [Binary Tree Level Order Traversal II](src/medium/BinaryTreeLevelOrderTraversalII.java)
 
+`108.` [Convert Sorted Array to Binary Search Tree](src/easy/ConvertSortedArraytoBinarySearchTree.java)
+
+`109.` [Convert Sorted List to Binary Search Tree](src/medium)
 
 `110.` [Balanced Binary Tree](src/easy/BalancedBinaryTree.java)
 
 `111.` [Minimum Depth of Binary Tree](src/easy/MinimumDepthofBinaryTree.java)
+
+`112.` [Path Sum](src/easy/PathSum.java)
+
+`113.` [Path Sum II](src/medium/PathSumII.java)
+
+`114.` [Flatten Binary Tree to Linked List](src/medium/FlattenBinaryTreetoLinkedList.java)
+
+`116.` [Populating Next Right Pointers in Each Node](src/medium/PopulatingNextRightPointersinEachNode.java)
 
 `118.` [Pascal's Triangle](src/easy/PascalsTriangle.java)
 
