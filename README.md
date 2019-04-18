@@ -268,6 +268,8 @@
 
 `119.` [Pascal's Triangle II](src/easy/PascalsTriangleII.java)
 
+`120.` [Triangle](src/medium/Triangle.java)
+
 `122.` [Best Time to Buy and Sell Stock II](src/easy/BestTimetoBuyandSellStockII.java)
 
 `125.` [Valid Palindrome](src/easy/ValidPalindrome.java)
