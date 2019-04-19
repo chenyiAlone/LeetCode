@@ -272,6 +272,8 @@
 
 `122.` [Best Time to Buy and Sell Stock II](src/easy/BestTimetoBuyandSellStockII.java)
 
+`124.` [Binary Tree Maximum Path Sum](src/hard/BinaryTreeMaximumPathSum.java)
+
 `125.` [Valid Palindrome](src/easy/ValidPalindrome.java)
 
 `136.` [Single Number](src/easy/SingleNumber.java)
