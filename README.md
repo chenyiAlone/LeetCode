@@ -270,13 +270,19 @@
 
 `120.` [Triangle](src/medium/Triangle.java)
 
+`121.` [Best Time to Buy and Sell Stock](src/easy/BestTimetoBuyandSellStock.java)
+
 `122.` [Best Time to Buy and Sell Stock II](src/easy/BestTimetoBuyandSellStockII.java)
 
 `124.` [Binary Tree Maximum Path Sum](src/hard/BinaryTreeMaximumPathSum.java)
 
 `125.` [Valid Palindrome](src/easy/ValidPalindrome.java)
 
+`128.` [Longest Consecutive Sequence](src/hard/LongestConsecutiveSequence.java)
+
 `129.` [Sum Root to Leaf Numbers](src/medium/SumRoottoLeafNumbers.java)
+
+`130.` [Surrounded Regions](src/medium/SurroundedRegions.java)
 
 `136.` [Single Number](src/easy/SingleNumber.java)
 
