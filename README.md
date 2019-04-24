@@ -286,7 +286,13 @@
 
 `133.` [Clone Graph](src/medium/CloneGraph.java)
 
+`134.` [Gas Station](src/medium/GasStation.java)
+
 `136.` [Single Number](src/easy/SingleNumber.java)
+
+`138.` [Copy List with Random Pointer](src/medium/CopyListwithRandomPointer.java)
+
+![Copy List with Random Pointer](imgs/138.png)
 
 `141.` [Linked List Cyle](src/easy/LinkedListCycle.java)
 
