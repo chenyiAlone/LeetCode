@@ -290,6 +290,8 @@
 
 `136.` [Single Number](src/easy/SingleNumber.java)
 
+`135.` [Candy](src/hard/Candy.java)
+
 `138.` [Copy List with Random Pointer](src/medium/CopyListwithRandomPointer.java)
 
 ![Copy List with Random Pointer](imgs/138.png)
