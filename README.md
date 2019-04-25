@@ -288,9 +288,9 @@
 
 `134.` [Gas Station](src/medium/GasStation.java)
 
-`136.` [Single Number](src/easy/SingleNumber.java)
-
 `135.` [Candy](src/hard/Candy.java)
+
+`136.` [Single Number](src/easy/SingleNumber.java)
 
 `138.` [Copy List with Random Pointer](src/medium/CopyListwithRandomPointer.java)
 
@@ -299,6 +299,8 @@
 `141.` [Linked List Cyle](src/easy/LinkedListCycle.java)
 
 `142.` [Linked List Cycle II](src/easy/LinkedListCycleII.java)
+
+`143.` [Reorder List](src/medium/ReorderList.java)
 
 `144.` [Binary Tree Preorder Traversal](src/medium/BinaryTreePreorderTraversal.java)
 
