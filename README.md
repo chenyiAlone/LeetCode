@@ -310,6 +310,8 @@
 
 ![二叉树后序遍历](imgs/145.gif)
 
+`146.` [LRU Cache](src/hard/LRUCache.java)
+
 [返回目录](#navigation)
 
 ## 150-199
