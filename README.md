@@ -320,6 +320,12 @@
 
 `150.` [Evaluate Reverse Polish Notation](src/medium/EvaluateReversePolishNotation.java)
 
+`151.` [Reverse Words in a String](src/medium/ReverseWordsinaString.java)
+
+`153.` [Find Minimum in Rotated Sorted Array](src/medium/FindMinimuminRotatedSortedArray.java)
+
+`154.` [Find Minimum in Rotated Sorted Array II](src/hard/FindMinimuminRotatedSortedArrayII.java)
+
 `155.` [Min Stack](src/easy/MinStack.java)
 
 `160.` [Intersetion of Two Linked Lists](src/medium/IntersectionofTwoLinkedLists.java)
