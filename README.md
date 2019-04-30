@@ -330,6 +330,8 @@
 
 `160.` [Intersetion of Two Linked Lists](src/medium/IntersectionofTwoLinkedLists.java)
 
+`162.` [Find Peak Element](src/medium/FindPeakElement.java)
+
 `167.` [Two Sum II - Input array is sorted](src/easy/TwoSumIIInputarrayissorted.java)
 
 `169.` [Majority Element](src/easy/MajorityElement.java)
