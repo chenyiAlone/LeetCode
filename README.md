@@ -322,6 +322,8 @@
 
 `151.` [Reverse Words in a String](src/medium/ReverseWordsinaString.java)
 
+`152.` [Maximum Product Subarray](src/medium/MaximumProductSubarray.java)
+
 `153.` [Find Minimum in Rotated Sorted Array](src/medium/FindMinimuminRotatedSortedArray.java)
 
 `154.` [Find Minimum in Rotated Sorted Array II](src/hard/FindMinimuminRotatedSortedArrayII.java)
