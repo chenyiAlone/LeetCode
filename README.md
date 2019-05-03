@@ -334,6 +334,8 @@
 
 `162.` [Find Peak Element](src/medium/FindPeakElement.java)
 
+`164.` [Maximum Gap](src/hard/MaximumGap.java)
+
 `165.` [Compare Version Numbers](src/medium/CompareVersionNumbers.java)
 
 `166.` [Fraction to Recurring Decimal](src/medium/FractiontoRecurringDecimal.java)
