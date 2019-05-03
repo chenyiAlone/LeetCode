@@ -336,6 +336,8 @@
 
 `165.` [Compare Version Numbers](src/medium/CompareVersionNumbers.java)
 
+`166.` [Fraction to Recurring Decimal](src/medium/FractiontoRecurringDecimal.java)
+
 `167.` [Two Sum II - Input array is sorted](src/easy/TwoSumIIInputarrayissorted.java)
 
 `169.` [Majority Element](src/easy/MajorityElement.java)
