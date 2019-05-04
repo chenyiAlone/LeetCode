@@ -344,9 +344,17 @@
 
 `169.` [Majority Element](src/easy/MajorityElement.java)
 
+`171.` [Excel Sheet Column Number](src/easy/ExcelSheetColumnNumber.java)
+
+`172.` [Factorial Trailing Zeroes](src/easy/FactorialTrailingZeroes.java)
+
 `173.` [Binary Search Tree Iterator](src/medium/BinarySearchTreeIterator.java)
 
 `175.` [Combine Two Tables](src/easy/CombineTowTables.sql)
+
+`176.` [Second Highest Salary](src/easy/SecondHighestSalary.sql)
+
+`177.` [NthHighestSalary](src/medium/NthHightestSalary.sql)
 
 `189.` [Rotate Array](src/easy/RotateArray.java)
 
