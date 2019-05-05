@@ -356,6 +356,8 @@
 
 `177.` [NthHighestSalary](src/medium/NthHightestSalary.sql)
 
+`187.` [Repeated DNA Sequences](src/medium/RepeatedDNASequences.java)
+
 `189.` [Rotate Array](src/easy/RotateArray.java)
 
 [返回目录](#navigation)
