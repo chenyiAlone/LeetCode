@@ -5,6 +5,7 @@ package easy;
  * Create Time: 2019/5/5 15:02
  * Description: No.190
  * 思路:
+ *      ps: 需要注意的就是 java 没有无符号类型的，因此传入的 4,294,967,293(11111111111111111111111111111101)，在 java 中为 -3
  *      1. << 到第一位 >>> 到最低位，这样就仅仅保留了这一位，在 << 回到原来位置
  *      2. 按照折半的顺序反转，需要注意的是右移位操作需要使用 >>> 无符号右移操作运算符
  *
@@ -41,7 +42,18 @@ public class ReverseBits {
 
     public int reverseBits2(int n) {
         n = (n >>> 16) | (n << 16);
-
+        n = ((n & 0xff00ff00) >>> 8) | ((n & 0x00ff00ff) << 8);
+        n = ((n & 0xf0f0f0f0) >>> 4) | ((n & 0x0f0f0f0f) << 4);
+        n = ((n & 0xcccccccc) >>> 2) | ((n & 0x33333333) << 2);
+        n = ((n & 0xaaaaaaaa) >>> 1) | ((n & 0x55555555) << 1);
         return n;
+    }
+
+    public static void main(String[] args) {
+        int n = -3;
+        System.out.format("n = %s\n", Integer.toBinaryString(n));
+        int res = new ReverseBits().reverseBits2(n);
+        System.out.format("res = %s\n", Integer.toBinaryString(res));
+
     }
 }
