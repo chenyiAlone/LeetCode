@@ -362,6 +362,10 @@
 
 `190.` [Reverse Bits](src/easy/ReverseBits.java)
 
+`191.` [Number of 1 Bits](src/easy/Numberof1Bits.java)
+
+`198.` [House Robber](src/easy/HouseRobber.java)
+
 [返回目录](#navigation)
 
 ## 200-249
