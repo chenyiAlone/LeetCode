@@ -360,6 +360,8 @@
 
 `189.` [Rotate Array](src/easy/RotateArray.java)
 
+`190.` [Reverse Bits](src/easy/ReverseBits.java)
+
 [返回目录](#navigation)
 
 ## 200-249
