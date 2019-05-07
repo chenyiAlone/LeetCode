@@ -386,6 +386,10 @@
 
 `206.` [Reverse Linked List](src/easy/ReverseLinkedList.java)
 
+`207.` [Course Schedule](src/medium/CourseSchedule.java)
+
+`208.` [Implement Trie (Prefix Tree)](src/medium/ImplementTriePrefixTree.java)
+
 `217.` [Contains Duplicate](src/easy/ContainsDuplicate.java)
 
 `219.` [Contains Duplicate II](src/easy/ContainsDuplicateII.java)
