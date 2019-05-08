@@ -390,6 +390,16 @@
 
 `208.` [Implement Trie (Prefix Tree)](src/medium/ImplementTriePrefixTree.java)
 
+`209.` [Minimun Size Subarray Sum](src/medium/MinimumSizeSubarraySum.java)
+
+`210.` [Course Schedule II](src/hard/CourseScheduleII.java)
+
+`211.` [AddandSearchSearchWrod-Datastructuredesign](src/medium/AddandSearchWordDatastructuredesign.java)
+
+`212.` [Word Search II](src/hard/WordSearchII.java)
+
+`213.` [House Robber II](src/medium/HouseRobberII.java)
+
 `217.` [Contains Duplicate](src/easy/ContainsDuplicate.java)
 
 `219.` [Contains Duplicate II](src/easy/ContainsDuplicateII.java)
