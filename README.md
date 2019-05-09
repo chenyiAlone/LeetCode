@@ -278,6 +278,8 @@
 
 `125.` [Valid Palindrome](src/easy/ValidPalindrome.java)
 
+`127.` [Word Ladder](src/medium/WordLadder.java)
+
 `128.` [Longest Consecutive Sequence](src/hard/LongestConsecutiveSequence.java)
 
 `129.` [Sum Root to Leaf Numbers](src/medium/SumRoottoLeafNumbers.java)
