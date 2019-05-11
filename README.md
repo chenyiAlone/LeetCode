@@ -412,6 +412,8 @@
 
 `219.` [Contains Duplicate II](src/easy/ContainsDuplicateII.java)
 
+`221.` [Maximal Square](src/medium/MaximalSquare.java)
+
 `225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
 
 `226.` [Invert Binary Tree](src/easy/InvertBinaryTree.java)
