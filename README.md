@@ -416,6 +416,10 @@
 
 `222.` [Count Complete Tree Nodes](src/medium/CountCompleteTreeNodes.java)
 
+`223.` [Rectangle Area](src/medium/RectangleArea.java)
+
+![Rectangle Area](imgs/223.png)
+
 `225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
 
 `226.` [Invert Binary Tree](src/easy/InvertBinaryTree.java)
