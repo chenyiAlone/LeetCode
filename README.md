@@ -420,9 +420,19 @@
 
 ![Rectangle Area](imgs/223.png)
 
+`224.` [Basic Calculator](src/hard/BasicCalculator.java)
+
 `225.` [Implement Stack using Queues](src/easy/ImplementStackusingQueues.java)
 
 `226.` [Invert Binary Tree](src/easy/InvertBinaryTree.java)
+
+`227.` [Basic Calculator II](src/medium/BasicCalculatorII.java)
+
+`228.` [Summary Ranges](src/medium/SummaryRanges.java)
+
+`229.` [Majority Element II](src/medium/MajorityElementII.java)
+
+`230.` [Kth Smallest Element in a BST](src/medium/KthSmallestElementinaBST.java)
 
 `231.` [Power of Two](src/easy/PowerofTwo.java)
 
