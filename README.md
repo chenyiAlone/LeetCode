@@ -448,9 +448,17 @@
 
 `238.` [Product of Array Except Self](src/medium/ProductofArrayExceptSelf.java)
 
+`239.` [Sliding Window Maximum](src/medium/SlidingWindowMaximum.java)
+
+`240.` [Search a 2D Matrix II](src/medium/Searcha2DMatrixII.java)
+
 `242.` [Vaild Anagram](src/easy/VaildAnagram.java)
 
+`257.` [Binary Tree Paths](src/easy/BinaryTreePaths.java)
+
 `258.` [Add Digits](src/easy/AddDigits.java)
+
+`263.` [Ugly Number](src/easy/UglyNumber.java)
 
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
 
