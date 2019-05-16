@@ -460,6 +460,14 @@
 
 `263.` [Ugly Number](src/easy/UglyNumber.java)
 
+`264.` [Ugly Number II](src/medium/UglyNumberII.java)
+
+`268.` [Missing Number](src/easy/MissingNumber.java)
+
+`274.` [H-Index](src/medium/HIndex.java)
+
+`278.` [First Bad Version](src/easy/FirstBadVersion.java)
+
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
 
 `287.` [Find the Duplicate Number](src/medium/FindtheDuplicateNumber.java)
