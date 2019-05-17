@@ -454,6 +454,10 @@
 
 `242.` [Vaild Anagram](src/easy/VaildAnagram.java)
 
+[返回目录](#navigation)
+
+## 250-299
+
 `257.` [Binary Tree Paths](src/easy/BinaryTreePaths.java)
 
 `258.` [Add Digits](src/easy/AddDigits.java)
@@ -466,20 +470,21 @@
 
 `274.` [H-Index](src/medium/HIndex.java)
 
+`275.` [H-Index II](src/medium/HIndexII.java)
+
 `278.` [First Bad Version](src/easy/FirstBadVersion.java)
 
+`279.` [Perfect Squares](src/medium/PerfectSquares.java)
+
 `283.` [Move Zeroes](src/easy/MoveZeroes.java)
+
+`284.` [Peek Iterator](src/medium/PeekIterator.java)
 
 `287.` [Find the Duplicate Number](src/medium/FindtheDuplicateNumber.java)
 
 `290.` [Word Pattern](src/easy/WordPattern.java)
 
 ![反转链表](imgs/206.gif)
-
-[返回目录](#navigation)
-
-
-## 250-299
 
 [返回目录](#navigation)
 
