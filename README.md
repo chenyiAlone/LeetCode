@@ -484,6 +484,10 @@
 
 `290.` [Word Pattern](src/easy/WordPattern.java)
 
+`292.` [Nim Game](src/easy/NimGame.java)
+
+`297.` [Serialize and Deserialize Binary Tree](src/hard/SerializeandDeserializeBinaryTree.java)
+
 ![反转链表](imgs/206.gif)
 
 [返回目录](#navigation)

@@ -1,6 +1,9 @@
 package util;
 
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * 工具类
  * @author chenyiAlone
@@ -130,8 +133,41 @@ public class Utils {
         }
         return list.next;
     }
-    
-    
+    // [1,2,3,null,null,4,5]
+    public static TreeNode initTree(Integer ... nums) {
+        TreeNode tree = null;
+        Queue<TreeNode> queue = new LinkedList<>();
+        tree = new TreeNode(nums[0]);
+        queue.add(tree);
+        int p = 1;
+        while (!queue.isEmpty() && p != nums.length) {
+            TreeNode t = queue.poll();
+            t.left = p < nums.length && nums[p] != null ? new TreeNode(nums[p]) : null;
+            p++;
+            t.right = p < nums.length && nums[p] != null ? new TreeNode(nums[p]) : null;
+            p++;
+            if (t.left != null)
+                queue.offer(t.left);
+            if (t.right != null)
+                queue.offer(t.right);
+        }
+        return tree;
+    }
+
+    public static void printTree(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
+            TreeNode t = queue.poll();
+            System.out.print((t == null ? null : t.val) + ", ");
+            if (t != null) {
+                queue.offer(t.left);
+                queue.offer(t.right);
+            }
+        }
+        System.out.println();
+    }
+
     /**
      * 将数组随机打乱
      * @param array
@@ -143,5 +179,15 @@ public class Utils {
             exch(array, i, exch);
         }
         return array;
+    }
+
+    public static void main(String[] args) {
+//        LinkedList<Integer> list = new LinkedList<>();
+//        list.add(null);
+//        System.out.println(list.size());
+//        TreeNode root = initTree(1,2,3,null,null,4,5);
+//        printTree(root);
+        System.out.println(Integer.parseInt("null"));
+
     }
 }
