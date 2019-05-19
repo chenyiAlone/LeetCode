@@ -40,6 +40,8 @@
 
 `7.` [Reverse Integer](src/easy/ReverInteger.java)
 
+`8.` [String to Integer (atoi)](src/medium/StringtoIntegerAtoi.java)
+
 `9.` [Palindrome Number](src/easy/PalindromeNumber.java)
 
 `10.` [Regular Expression Matching](src/hard/RegularExpressionMatching.java)
@@ -109,6 +111,10 @@
 `42.` [Trapping Rain Water](src/hard/TrappingRainWater.java)
 
 ![接雨水](imgs/42.gif)
+
+`43.` [Multiply Strings](src/medium/MultiplyStrings.java)
+
+`45.` [Jump Game II](src/hard/JumpGameII.java)
 
 `46.` [Permutations](src/medium/Permutations.java)
 
