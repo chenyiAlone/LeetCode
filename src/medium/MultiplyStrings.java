@@ -1,13 +1,77 @@
 package medium;
 /**
- * 
- * ClassName: MultiplyStrings
- * @author chenyiAlone  
- * Create Time: 2018/12/26 20:33:20
- * Description: No.
+ * ClassName: MultiplyStrings.java
+ * Author: chenyiAlone
+ * Create Time: 2019/5/19 14:02
+ * Description: No.8
+ * 思路:
+ *      1. 模拟乘法运算
+ *      2. 如果第一位为 0 return 0
+ *      3. subMul 部分积和 ans 都反向保存，return 时 reverse()
+ *
+ *
+ *
+ * Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
+ *
+ * Example 1:
+ *
+ * Input: num1 = "2", num2 = "3"
+ * Output: "6"
+ * Example 2:
+ *
+ * Input: num1 = "123", num2 = "456"
+ * Output: "56088"
+ * Note:
+ *
+ * The length of both num1 and num2 is < 110.
+ * Both num1 and num2 contain only digits 0-9.
+ * Both num1 and num2 do not contain any leading zero, except the number 0 itself.
+ * You must not use any built-in BigInteger library or convert the inputs to integer directly.
+ * Accepted
+ *
  */
 public class MultiplyStrings {
     public String multiply(String num1, String num2) {
+        int n1 = num1.length() - 1, n2 = num2.length() - 1;
+        StringBuilder ans = new StringBuilder();
+        StringBuilder subMul = new StringBuilder();
+        int p = 0;
+        for (int i = n2; i >= 0; i--) {
+            int c = 0;
+            subMul.setLength(0);
+            for (int j = n1; j >= 0; j--) {
+                int mul = (c + (num1.charAt(j) - '0') * (num2.charAt(i) - '0'));
+                subMul.append(mul % 10);
+                c = mul / 10;
+            }
+            if (c != 0)
+                subMul.append(c);
+            int l = 0, index = p;
+            c = 0;
+            while (l < subMul.length()) {
+                int a = p + l < ans.length() ? ans.charAt(p + l) - '0' : 0;
+                int b = l < subMul.length() ? subMul.charAt(l) - '0' : 0;
+                while (ans.length() < p + l)
+                    ans.append(0);
+                if (ans.length() == p + l)
+                    ans.append((a + b + c) % 10);
+                else
+                    ans.setCharAt(index++, (char)('0' + (a + b + c) % 10));
+                c = (c + a + b) / 10;
+
+                l++;
+            }
+            if (c != 0)
+                ans.append(c);
+            p++;
+
+        }
+        return (ans.charAt(ans.length() - 1) == '0') ? "0" : ans.reverse().toString();
+    }
+
+
+
+    private String multiplyOld(String num1, String num2) {
         StringBuffer ans = new StringBuffer("0");
         for (int i = 0; i < num2.length(); i++) {
 //            char c = 10;
@@ -62,11 +126,11 @@ public class MultiplyStrings {
         sb.append(bit);
     }
     public static void main(String[] args) {
-        String num1 = "333";
-        String num2 = "44";
-        StringBuffer sb1 = new StringBuffer(num1);
-        StringBuffer sb2 = new StringBuffer(num2);
-        addSB(sb1, sb2);
+        String num1 = "9";
+        String num2 = "9";
+//        StringBuffer sb1 = new StringBuffer(num1);
+//        StringBuffer sb2 = new StringBuffer(num2);
+//        addSB(sb1, sb2);
 //        System.out.println(sb2);
         System.out.println(new MultiplyStrings().multiply(num1, num2));
     }
