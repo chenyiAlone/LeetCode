@@ -3,7 +3,7 @@ package medium;
  * ClassName: BullsandCows.java
  * Author: chenyiAlone
  * Create Time: 2019/5/20 15:22
- * Description: No.289
+ * Description: No.299
  * 思路:
  *      1. int[10] 保存元素中的个数
  *      2. 遍历两次，分别对应猜对和猜错两种情况计数 cntA + cntB

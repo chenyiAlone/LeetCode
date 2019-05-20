@@ -498,7 +498,7 @@
 
 `297.` [Serialize and Deserialize Binary Tree](src/hard/SerializeandDeserializeBinaryTree.java)
 
-`298.` [Bulls and Cows](src/medium/BullsandCows.java)
+`299.` [Bulls and Cows](src/medium/BullsandCows.java)
 
 [返回目录](#navigation)
 
