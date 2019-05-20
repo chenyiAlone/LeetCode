@@ -396,6 +396,8 @@
 
 `206.` [Reverse Linked List](src/easy/ReverseLinkedList.java)
 
+![反转链表](imgs/206.gif)
+
 `207.` [Course Schedule](src/medium/CourseSchedule.java)
 
 `208.` [Implement Trie (Prefix Tree)](src/medium/ImplementTriePrefixTree.java)
@@ -488,18 +490,22 @@
 
 `287.` [Find the Duplicate Number](src/medium/FindtheDuplicateNumber.java)
 
+`289.` [Game of Life](src/medium/GameofLife.java)
+
 `290.` [Word Pattern](src/easy/WordPattern.java)
 
 `292.` [Nim Game](src/easy/NimGame.java)
 
 `297.` [Serialize and Deserialize Binary Tree](src/hard/SerializeandDeserializeBinaryTree.java)
 
-![反转链表](imgs/206.gif)
+`298.` [Bulls and Cows](src/medium/BullsandCows.java)
 
 [返回目录](#navigation)
 
 
 ## 300-349
+
+`300.` [Longest Increasing Subsequence](src/medium/LongestIncreasingSubsequence.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
 
