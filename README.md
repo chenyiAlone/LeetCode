@@ -496,6 +496,8 @@
 
 `292.` [Nim Game](src/easy/NimGame.java)
 
+`295.` [Find Median from Data Stream](src/hard/FindMedianfromDataStream.java)
+
 `297.` [Serialize and Deserialize Binary Tree](src/hard/SerializeandDeserializeBinaryTree.java)
 
 `299.` [Bulls and Cows](src/medium/BullsandCows.java)
@@ -506,6 +508,10 @@
 ## 300-349
 
 `300.` [Longest Increasing Subsequence](src/medium/LongestIncreasingSubsequence.java)
+
+`303.` [Range Sum Query - Immutable](src/easy/RangeSumQueryImmutable.java)
+
+`304.` [Range Sum Query 2D - Immutable](src/medium/RangeSumQuery2DImmutable.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
 
