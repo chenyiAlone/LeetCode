@@ -513,6 +513,10 @@
 
 `304.` [Range Sum Query 2D - Immutable](src/medium/RangeSumQuery2DImmutable.java)
 
+`307.` [Range Sum Query - Mutable](src/medium/RangeSumQueryMutable.java)
+
+`313.` [Super Ugly Number](src/medium/SuperUglyNumber.java)
+
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
 
 `344.` [Reverse String](src/easy/ReverseString.java)
