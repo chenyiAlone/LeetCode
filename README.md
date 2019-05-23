@@ -302,6 +302,8 @@
 
 `136.` [Single Number](src/easy/SingleNumber.java)
 
+`137.` [Single Number II](src/medium/SingleNumberII.java)
+
 `138.` [Copy List with Random Pointer](src/medium/CopyListwithRandomPointer.java)
 
 ![Copy List with Random Pointer](imgs/138.png)
@@ -470,6 +472,8 @@
 
 `258.` [Add Digits](src/easy/AddDigits.java)
 
+`260.` [Single Number III](src/medium/SingleNumberIII.java)
+
 `263.` [Ugly Number](src/easy/UglyNumber.java)
 
 `264.` [Ugly Number II](src/medium/UglyNumberII.java)
@@ -512,6 +516,8 @@
 `303.` [Range Sum Query - Immutable](src/easy/RangeSumQueryImmutable.java)
 
 `304.` [Range Sum Query 2D - Immutable](src/medium/RangeSumQuery2DImmutable.java)
+
+`306.` [Additive Number](src/medium/AdditiveNumber.java)
 
 `307.` [Range Sum Query - Mutable](src/medium/RangeSumQueryMutable.java)
 
