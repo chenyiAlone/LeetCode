@@ -531,6 +531,8 @@
 
 ## 350-399
 
+`376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
+
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
 
 `383.` [Ransom Note](src/easy/RansomNote.java)
@@ -546,6 +548,8 @@
 [返回目录](#navigation)
 
 ## 450-499
+
+`454.` [Assign Cookies](src/easy/AssignCookies.java)
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
 
@@ -578,6 +582,8 @@
 ## 800-849
 
 `844.` [Backspace String Compare](src/easy/BackspaceStringCompare.java)
+
+`860.` [Lemonade Change](src/easy/LemonadeChange.java)
 
 [返回目录](#navigation)
 
