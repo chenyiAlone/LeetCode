@@ -543,11 +543,17 @@
 
 ## 400-449
 
+`402.` [Remove K Digits](src/medium/RemoveKDigits.java)
+
+`406.` [Queue Reconstruction by Height](src/medium/QueueReconstructionbyHeight.java)
+
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
 
 [返回目录](#navigation)
 
 ## 450-499
+
+`452.` [Minimum Number of Arrows to Burst Balloons](src/medium/MinimumNumberofArrowstoBurstBallons.java)
 
 `455.` [Assign Cookies](src/easy/AssignCookies.java)
 
