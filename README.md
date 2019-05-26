@@ -521,6 +521,10 @@
 
 `307.` [Range Sum Query - Mutable](src/medium/RangeSumQueryMutable.java)
 
+`309.` [Best Time to Buy ans Sell Stock with Cooldown](src/medium/BestTimetoBuyandSellStockwithCooldown.java)
+
+`315.` [Count of Smaller Number After Self](src/hard/CountofSmallerNumberAfterSelf.java)
+
 `313.` [Super Ugly Number](src/medium/SuperUglyNumber.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
