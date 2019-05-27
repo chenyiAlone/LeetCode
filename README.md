@@ -523,9 +523,11 @@
 
 `309.` [Best Time to Buy ans Sell Stock with Cooldown](src/medium/BestTimetoBuyandSellStockwithCooldown.java)
 
+`313.` [Super Ugly Number](src/medium/SuperUglyNumber.java)
+
 `315.` [Count of Smaller Number After Self](src/hard/CountofSmallerNumberAfterSelf.java)
 
-`313.` [Super Ugly Number](src/medium/SuperUglyNumber.java)
+`329.` [Longest Increasing Path in a Matrix](src/hard/LongestIncreasingPathinaMatrix.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
 
@@ -534,6 +536,8 @@
 [返回目录](#navigation)
 
 ## 350-399
+
+`354.` [Russian Doll Envelopes](src/hard/RussianDollEnvelopes.java)
 
 `376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
 
