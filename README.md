@@ -527,6 +527,8 @@
 
 `315.` [Count of Smaller Number After Self](src/hard/CountofSmallerNumberAfterSelf.java)
 
+`316.` [Remove Duplicate Letters](src/hard/RemoveDuplicateLetters.java)
+
 `329.` [Longest Increasing Path in a Matrix](src/hard/LongestIncreasingPathinaMatrix.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
