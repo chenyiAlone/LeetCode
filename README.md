@@ -529,6 +529,12 @@
 
 `316.` [Remove Duplicate Letters](src/hard/RemoveDuplicateLetters.java)
 
+`318.` [Maximum Product of Word Lengths](src/medium/MaximumProductofWordLengths.java)
+
+`319.` [Bulb Switcher](src/medium/BulbSwitcher.java)
+
+`322.` [Coins Change](src/medium/CoinChange.java)
+
 `329.` [Longest Increasing Path in a Matrix](src/hard/LongestIncreasingPathinaMatrix.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
