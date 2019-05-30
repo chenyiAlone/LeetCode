@@ -537,6 +537,8 @@
 
 `329.` [Longest Increasing Path in a Matrix](src/hard/LongestIncreasingPathinaMatrix.java)
 
+`338.` [Counting Bits](src/medium/CountingBits.java)
+
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
 
 `344.` [Reverse String](src/easy/ReverseString.java)
