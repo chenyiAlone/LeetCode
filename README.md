@@ -535,6 +535,10 @@
 
 `322.` [Coins Change](src/medium/CoinChange.java)
 
+`326.` [Power of Three](src/easy/PowerofTree.java)
+
+`328.` [Odd Even Linked List](src/medium/OddEvenLinkedList.java)
+
 `329.` [Longest Increasing Path in a Matrix](src/hard/LongestIncreasingPathinaMatrix.java)
 
 `338.` [Counting Bits](src/medium/CountingBits.java)
