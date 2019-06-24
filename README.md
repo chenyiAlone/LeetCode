@@ -543,6 +543,8 @@
 
 `330.` [Patching Array](src/hard/PatchingArray.java)
 
+`331.` [Verify Preorder Serialization of a Binary Tree](src/medium/VerifyPreorderSerializationofBinaryTree.java)
+
 `338.` [Counting Bits](src/medium/CountingBits.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
