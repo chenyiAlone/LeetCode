@@ -545,6 +545,8 @@
 
 `331.` [Verify Preorder Serialization of a Binary Tree](src/medium/VerifyPreorderSerializationofBinaryTree.java)
 
+`332.` [Reconstruct Itinerary](src/medium/ReconstructItinerary.java)
+
 `338.` [Counting Bits](src/medium/CountingBits.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
