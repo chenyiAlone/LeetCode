@@ -547,6 +547,8 @@
 
 `332.` [Reconstruct Itinerary](src/medium/ReconstructItinerary.java)
 
+`334.` [Increasing Triplet Subsequence](src/medium/IncreasingTripletSubsequence.java)
+
 `338.` [Counting Bits](src/medium/CountingBits.java)
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
