@@ -448,6 +448,8 @@
 
 `232.` [Implement Queue using Stacks](src/easy/ImplementQueueusingStacks.java)
 
+`233.` [Number of Digit One](src/hard/NumberofDigitOne.java)
+
 `234.` [Palindrome Linked List](src/easy/PalindromeLinkedList.java)
 
 `235.` [Lowest Common Ancestor of a Binary Search Tree](src/easy/LowestCommonAncestorofaBinarySearchTree.java)
