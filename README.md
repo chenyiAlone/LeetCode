@@ -557,6 +557,8 @@
 
 `341.` [Flatten Nested List Iterator](src/medium/FlattenNestedListIterator.java)
 
+`342.` [Power of Four](src/medium/PowerofFour.java)
+
 `343.` [Integer Break](src/medium/IntegerBreak.java)
 
 `344.` [Reverse String](src/easy/ReverseString.java)
