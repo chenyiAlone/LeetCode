@@ -565,9 +565,13 @@
 
 `345.` [Reverse Vowels of a String](src/easy/ReverseVowelsofaString.java)
 
+`349.` [Intersection of Two Arrays](src/easy/IntersectionofTwoArrays.java)
+
 [返回目录](#navigation)
 
 ## 350-399
+
+`350.` [Intersection of Two Arrays II](src/easy/IntersectionofTwoArraysII.java)
 
 `354.` [Russian Doll Envelopes](src/hard/RussianDollEnvelopes.java)
 
