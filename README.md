@@ -577,6 +577,8 @@
 
 `354.` [Russian Doll Envelopes](src/hard/RussianDollEnvelopes.java)
 
+`357` [Count Numbers with Unique Digits](src/medium/CountNumberswithUniqueDigits.java)
+
 `376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
 
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
