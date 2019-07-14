@@ -577,7 +577,9 @@
 
 `354.` [Russian Doll Envelopes](src/hard/RussianDollEnvelopes.java)
 
-`357` [Count Numbers with Unique Digits](src/medium/CountNumberswithUniqueDigits.java)
+`357.` [Count Numbers with Unique Digits](src/medium/CountNumberswithUniqueDigits.java)
+
+`365.` [Water and Jug Problem](src/medium/WaterandJugProblem.java)
 
 `376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
 
