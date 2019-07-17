@@ -581,6 +581,8 @@
 
 `365.` [Water and Jug Problem](src/medium/WaterandJugProblem.java)
 
+`367.` [Valid Perfect Square](src/easy/ValidPerfectSquare.java)
+
 `376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
 
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
