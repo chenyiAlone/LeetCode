@@ -587,6 +587,8 @@
 
 `371.` [Sum of Two Integers](src/easy/SumofTwoInteger.java)
 
+`374.` [Guess Number Higher or Lower](src/easy/GuessNumberHigherorLower.java)
+
 `376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
 
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
