@@ -591,6 +591,8 @@
 
 `376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
 
+`380.` [Insert Delete GetRandom O(1)](src/medium/InsertDeleteGetRandomO1.java)
+
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
 
 `383.` [Ransom Note](src/easy/RansomNote.java)
