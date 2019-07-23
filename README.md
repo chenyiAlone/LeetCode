@@ -597,6 +597,8 @@
 
 `383.` [Ransom Note](src/easy/RansomNote.java)
 
+`384.` [Shuffle an Array](src/medium/ShuffleanArray.java)
+
 `389.` [Find the Difference](src/easy/FIndtheDifference.java)
 
 [返回目录](#navigation)
