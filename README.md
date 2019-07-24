@@ -593,6 +593,8 @@
 
 `380.` [Insert Delete GetRandom O(1)](src/medium/InsertDeleteGetRandomO1.java)
 
+`381.` [Insert Delete GetRandom O(1) - Duplicates allowed](src/hard/InsertDeleteGetRandomO1Duplicatesallowed.java)
+
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
 
 `383.` [Ransom Note](src/easy/RansomNote.java)
