@@ -595,11 +595,13 @@
 
 `381.` [Insert Delete GetRandom O(1) - Duplicates allowed](src/hard/InsertDeleteGetRandomO1Duplicatesallowed.java)
 
-`387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
+`382.` [Linked List Random Node](src/medium/LinkedListRandomNode.java)
 
 `383.` [Ransom Note](src/easy/RansomNote.java)
 
 `384.` [Shuffle an Array](src/medium/ShuffleanArray.java)
+
+`387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
 
 `389.` [Find the Difference](src/easy/FIndtheDifference.java)
 
