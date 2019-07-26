@@ -601,6 +601,8 @@
 
 `384.` [Shuffle an Array](src/medium/ShuffleanArray.java)
 
+`385.` [Mini Parser](src/medium/MiniParser.java)
+
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
 
 `389.` [Find the Difference](src/easy/FIndtheDifference.java)

@@ -18,10 +18,23 @@ import java.util.List;
  *     public List<NestedInteger> getList();
  * }
  */
-public interface NestedInteger {
-    public Integer getInteger();
+public class NestedInteger {
+    public NestedInteger() {}
+    public NestedInteger(Integer i) {}
+
+    public Integer getInteger() {
+        return 1;
+    }
     
-    public List getList();
-    
-    public boolean isInteger();
+    public List getList(){
+        return null;
+    }
+
+    public void add(NestedInteger ni) {
+
+    }
+
+    public boolean isInteger() {
+        return false;
+    }
 }
