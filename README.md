@@ -603,6 +603,8 @@
 
 `385.` [Mini Parser](src/medium/MiniParser.java)
 
+`386.` [Lexicographical Numbers](src/medium/LexicographicalNumbers.java)
+
 `387.` [First Unique Character in a String](src/easy/FirstUniqueCharacterinaString.java)
 
 `389.` [Find the Difference](src/easy/FIndtheDifference.java)
