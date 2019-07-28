@@ -609,6 +609,8 @@
 
 `389.` [Find the Difference](src/easy/FIndtheDifference.java)
 
+`390.` [Elimination Game](src/medium/EliminationGame.java)
+
 [返回目录](#navigation)
 
 ## 400-449
