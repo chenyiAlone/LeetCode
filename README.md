@@ -611,6 +611,8 @@
 
 `390.` [Elimination Game](src/medium/EliminationGame.java)
 
+`392.` [Is Subsequence](src/medium/IsSubsequence.java)
+
 [返回目录](#navigation)
 
 ## 400-449
