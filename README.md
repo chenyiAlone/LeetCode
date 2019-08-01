@@ -617,6 +617,7 @@
 
 `394.` [Decode String](src/medium/DecodeString.java)
 
+`396.` [Rotate Function](src/medium/RotateFunction.java)
 
 [返回目录](#navigation)
 
