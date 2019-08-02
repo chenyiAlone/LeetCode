@@ -611,6 +611,8 @@
 
 `390.` [Elimination Game](src/medium/EliminationGame.java)
 
+`391.` [Perfect Rectangle](src/hard/PerfectRectangle.java)
+
 `392.` [Is Subsequence](src/medium/IsSubsequence.java)
 
 `393.` [UTF-8 Validation](src/medium/UTF8Validation.java)
