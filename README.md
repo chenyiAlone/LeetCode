@@ -621,6 +621,8 @@
 
 `396.` [Rotate Function](src/medium/RotateFunction.java)
 
+`398.` [Random Pick Index](src/medium/RandomPickIndex.java)
+
 [返回目录](#navigation)
 
 ## 400-449
