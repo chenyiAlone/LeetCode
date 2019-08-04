@@ -1,41 +1,62 @@
 package easy;
-
+/**
+ * ClassName: NthDigit.java
+ * Author: chenyiAlone
+ * Create Time: 2019/8/4 22:35
+ * Description: No.400 Nth Digit
+ * 思路:
+ *      1. 模拟每增加一位的时候，所出现的数个数
+ *          len     数的长度
+ *          start   开始的数字
+ *          total   len 长度的时候能够表示数的个数
+ *      2. start 和 total 每次 *= 10 变化
+ *      3. number = (n - 1) / len + start
+ *      4. 取 number 的 (n - 1) % len 个数
+ *
+ *
+ *
+ * Find the nth digit of the infinite integer sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ...
+ *
+ * Note:
+ * n is positive and will fit within the range of a 32-bit signed integer (n < 231).
+ *
+ * Example 1:
+ *
+ * Input:
+ * 3
+ *
+ * Output:
+ * 3
+ * Example 2:
+ *
+ * Input:
+ * 11
+ *
+ * Output:
+ * 0
+ *
+ * Explanation:
+ * The 11th digit of the sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... is a 0, which is
+ * part of the number 10.
+ *
+ *
+ */
 public class NthDigit {
+
     public int findNthDigit(int n) {
-        int seek = 1, t = 1;
-        while (seek + (int)Math.pow(10, t) * (t + 1) < n) {
-            seek += (int)Math.pow(10, t) * t++;
-        }
-        int poin = (int)(n - Math.pow(10, t - 1));
-        int base = (int)Math.pow(10, t - 1);
-        int add = (poin / t);
-        int num = base + add;
-        int res = (n - base) % t;
-//        System.out.println("res" + res);
-        res = n == 10 ? 1 : t - res - 1;
-//        System.out.println(t - res - 1);
-//        System.out.println("num" + num);
-//        System.out.println("res" + res);
-//        System.out.println();
-        while (res-- > 0) {
-            num /= 10;
-        }
-//        System.out.println("poin" + poin);
-//        System.out.println("base" + base);
-//        System.out.println("add" + add);
-//        System.out.println(t + " " + seek);
-//        System.out.println();
-        
-        return num % 10;
-    }
-    public static void main(String[] args) {
-        NthDigit nd = new NthDigit();
-        int n = 16;
-        for (int i = 1; i < 1001; i++) {
-//            nd.findNthDigit(i);
-            
-            System.out.print(nd.findNthDigit(i));
-            
+        int len = 1;
+        long start = 1, total = 9;
+        while (true) {
+            if (n <= len * total) {
+                long number = (n - 1) / len + start;
+                return Long.toString(number).charAt(((n - 1) % len)) - '0';
+            } else {
+                n -= len * total;
+                total *= 10;
+                start *= 10;
+                len++;
+            }
         }
     }
+
 }

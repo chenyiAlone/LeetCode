@@ -627,6 +627,8 @@
 
 ## 400-449
 
+`400.` [Nth Digit](src/easy/NthDigit.java)
+
 `402.` [Remove K Digits](src/medium/RemoveKDigits.java)
 
 `406.` [Queue Reconstruction by Height](src/medium/QueueReconstructionbyHeight.java)
