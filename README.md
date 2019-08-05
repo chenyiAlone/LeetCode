@@ -631,6 +631,8 @@
 
 `402.` [Remove K Digits](src/medium/RemoveKDigits.java)
 
+`404.` [Sum of Left Leaves](src/easy/SumofLeftLeaves.java)
+
 `406.` [Queue Reconstruction by Height](src/medium/QueueReconstructionbyHeight.java)
 
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
