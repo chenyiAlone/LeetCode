@@ -633,6 +633,8 @@
 
 `404.` [Sum of Left Leaves](src/easy/SumofLeftLeaves.java)
 
+`405.` [Convert a Number to Hexadecimal](src/easy/ConvertaNumbertoHexadecimal.java)
+
 `406.` [Queue Reconstruction by Height](src/medium/QueueReconstructionbyHeight.java)
 
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
