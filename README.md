@@ -639,6 +639,8 @@
 
 `409.` [Longest Palindrome](src/easy/LongestPalindrome.java)
 
+`412.` [Fizz Buzz](src/easy/FizzBuzz.java)
+
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
 
 [返回目录](#navigation)
