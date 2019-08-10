@@ -643,6 +643,8 @@
 
 `413.` [Arithmetic Slices](src/easy/ArithmeticSlices.java)
 
+`414.` [Third Maximum Number](src/easy/ThirdMaximumNumber.java)
+
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
 
 [返回目录](#navigation)
