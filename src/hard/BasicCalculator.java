@@ -7,10 +7,13 @@ import java.util.Stack;
  * Create Time: 2019/5/13 16:39
  * Description: No.224
  * 思路:
- *      思路就是处理优先级的问题
+ *      1. 思路就是处理优先级的问题
  *      扫描到一个字符，就将 operate stack 中之前 连续的并且优先级相等或者更高的操作符 弹出并计算压入数组栈中
  *          `(` 的优先级最低
  *          `*` `/` 的优先级高于 `+` `-`
+ *      2. 递归写法
+ *
+ *
  *
  *
  *
@@ -37,6 +40,50 @@ import java.util.Stack;
  *
  */
 public class BasicCalculator {
+
+    private char[] str;
+    private int index;
+
+    // 2. 递归写法
+    private int cacul() {
+        int ret = 0, flag = 1;
+        while (index < str.length && str[index] != ')') {
+
+            if ('0' <= str[index] && str[index] <= '9') {
+                int num = 0;
+                while (index < str.length && '0' <= str[index] && str[index] <= '9') {
+                    num = num * 10 + str[index] - '0';
+                    index++;
+                }
+                ret += flag * num;
+            } else {
+                switch(str[index++]) {
+                    case '+':
+                        flag = 1;
+                        break;
+                    case '-':
+                        flag = -1;
+                        break;
+                    case '(':
+                        ret += flag * cacul();
+                        break;
+                    case ' ':
+                        break;
+                }
+            }
+        }
+        if (index < str.length && str[index] == ')') {
+            index++;
+        }
+        return ret;
+    }
+
+    public int calculateByRec(String s) {
+        str = s.toCharArray();
+        return cacul();
+    }
+
+    // 1. 优先级递归
     private Stack<Integer> numbers = new Stack<>();
     private Stack<Character> operate = new Stack<>();
 
