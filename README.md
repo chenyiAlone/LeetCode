@@ -647,6 +647,8 @@
 
 `414.` [Third Maximum Number](src/easy/ThirdMaximumNumber.java)
 
+`415.` [Add Strings](src/easy/AddStrings.java)
+
 `416.` [Partition Equal Subset Sum](src/medium/PartitionEqualSubsetSum.java)
 
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
