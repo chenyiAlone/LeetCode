@@ -30,4 +30,47 @@ package medium;
  *
  */
 public class MaxmiumXORofTwoNumbersinanArray {
+
+    private int ret;
+
+    private class Node {
+        Node[] son = new Node[2];
+    }
+    private void dfs(Node a, Node b, int depth, int val) {
+        ret = Math.max(ret, val);
+        if (depth < 0) return;
+
+        boolean flag = true;
+
+        if (a.son[1] != null && b.son[0] != null) {
+            dfs(a.son[1], b.son[0], depth - 1, val | (1 << depth));
+            flag = false;
+        }
+        if (a.son[0] != null && b.son[1] != null) {
+            dfs(a.son[0], b.son[1], depth - 1, val | (1 << depth));
+            flag = false;
+        }
+        if (flag) {
+            for (int i = 0; i < 2; i++) {
+                if (a.son[i] != null && b.son[i] != null)
+                    dfs(a.son[i], b.son[i], depth - 1, val);
+            }
+        }
+    }
+
+    public int findMaximumXOR(int[] nums) {
+        Node root = new Node();
+        for (int i : nums) {
+            Node cur = root;
+            for (int j = 1 << 30; j > 0; j >>>= 1) {
+                int t = (i & j) > 0 ? 1 : 0;
+                if (cur.son[t] == null)
+                    cur.son[t] = new Node();
+                cur = cur.son[t];
+            }
+        }
+        dfs(root, root, 30, 0);
+        return ret;
+    }
+
 }
