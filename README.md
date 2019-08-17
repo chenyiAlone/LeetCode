@@ -657,6 +657,8 @@
 
 `421.` [Maximum XOR of Two Numbers in an Array](src/medium/MaxmiumXORofTwoNumbersinanArray.java)
 
+`423.` [Reconstruct Original Digits from English](src/medium/ReconstructOriginalDigitsfromEnglish.java)
+
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
 
 [返回目录](#navigation)
