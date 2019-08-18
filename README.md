@@ -659,6 +659,8 @@
 
 `423.` [Reconstruct Original Digits from English](src/medium/ReconstructOriginalDigitsfromEnglish.java)
 
+`429.` [N-ary Tree Level Order Traversal](src/easy/NaryTreeLevelOrderTraversal.java)
+
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
 
 [返回目录](#navigation)
