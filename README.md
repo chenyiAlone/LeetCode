@@ -671,6 +671,8 @@
 
 `441.` [Arranging Coins](src/easy/ArrangingCoins.java)
 
+`442.` [Find All Duplicates in an Array](src/medium/FindAllDuplicatesinanArray.java)
+
 [返回目录](#navigation)
 
 ## 450-499
