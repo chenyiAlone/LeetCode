@@ -667,6 +667,8 @@
 
 `434.` [Number of Segments in a String](src/easy/NumberofSegmentsinaString.java)
 
+`435.` [Non-overlapping Intervals](src/medium/NonoverlappingIntervals.java)
+
 `437.` [Path Sum III](src/easy/PathSumIII.java)
 
 `438.` [Find All Anagrams in a String](src/easy/FindAllAngagramsinaString.java)
