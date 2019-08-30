@@ -683,6 +683,8 @@
 
 `445.` [Add Two Numbers II](src/medium/AddTwoNumbersII.java)
 
+`447.` [Number of Boomerangs](src/easy/NumberofBoomerangs.java)
+
 [返回目录](#navigation)
 
 ## 450-499
