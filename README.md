@@ -699,6 +699,8 @@
 
 `452.` [Minimum Number of Arrows to Burst Balloons](src/medium/MinimumNumberofArrowstoBurstBallons.java)
 
+`453.` [Minimum Moves to Equal Array Elements](src/easy/MinimumMovestoEqualArrayElements.java)
+
 `455.` [Assign Cookies](src/easy/AssignCookies.java)
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
