@@ -711,6 +711,8 @@
 
 `501.` [Find Mode in Binary Search Tree](src/easy/FinadModeinBinarySearchTree.java)
  
+ `538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
+ 
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
 
 `563.` [Binary Tree Tilt](src/easy/BinaryTreeTilt.java)
