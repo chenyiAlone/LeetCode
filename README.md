@@ -703,6 +703,8 @@
 
 `455.` [Assign Cookies](src/easy/AssignCookies.java)
 
+`485.` [Max Consecutive Ones](src/easy/MaxConsecutive.java)
+
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
 
 [返回目录](#navigation)
