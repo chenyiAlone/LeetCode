@@ -703,6 +703,8 @@
 
 `455.` [Assign Cookies](src/easy/AssignCookies.java)
 
+`455.` [132 Pattern](src/medium/Pattern.java)
+
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutive.java)
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
@@ -713,7 +715,7 @@
 
 `501.` [Find Mode in Binary Search Tree](src/easy/FinadModeinBinarySearchTree.java)
  
- `538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
+`538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
  
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
 
