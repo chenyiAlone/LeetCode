@@ -705,7 +705,9 @@
 
 `455.` [132 Pattern](src/medium/Pattern.java)
 
-`485.` [Max Consecutive Ones](src/easy/MaxConsecutive.java)
+`459.` [Repeated Substring Pattern](src/easy/RepeatedSubstringPattern.java)
+
+`485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
 
