@@ -703,9 +703,11 @@
 
 `455.` [Assign Cookies](src/easy/AssignCookies.java)
 
-`455.` [132 Pattern](src/medium/Pattern.java)
+`456.` [132 Pattern](src/medium/Pattern.java)
 
 `459.` [Repeated Substring Pattern](src/easy/RepeatedSubstringPattern.java)
+
+`461.` [Hamming Distance](src/easy/HammingDistance.java)
 
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
 
