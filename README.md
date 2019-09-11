@@ -709,6 +709,8 @@
 
 `461.` [Hamming Distance](src/easy/HammingDistance.java)
 
+`463.` [Island Perimeter](src/easy/IslandPerimeter.java)
+
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
