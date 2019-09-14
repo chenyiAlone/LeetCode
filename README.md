@@ -713,6 +713,8 @@
 
 `468.` [Validate IP Address](src/medium/ValidateIPAddress.java)
 
+`470.` [Implements Rand10() Using Rand7()](src/medium/ImplementsRand10UsingRand7.java)
+
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
