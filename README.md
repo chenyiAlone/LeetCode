@@ -717,6 +717,8 @@
 
 `474.` [Ones and Zeros](src/medium/OnesandZeros.java)
 
+`476.` [Number Complement](src/easy/NumberComplement.java)
+
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
 
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
