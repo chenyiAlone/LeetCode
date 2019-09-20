@@ -727,6 +727,8 @@
 
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
 
+`494.` [Target Sum](src/easy/TargetSum.java)
+
 `496.` [Next Greater Element I](src/easy/NextGreaterElementI.java)
 
 [返回目录](#navigation)
