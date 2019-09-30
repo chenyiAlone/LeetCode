@@ -755,6 +755,8 @@
 
 `520.` [Detect Capital](src/easy/DetectCapital.java)
 
+`521.` [Longest Uncommon Subsequence I](src/easy/LongestUncommonSubsequenceI.java) 
+
 `538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
  
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
