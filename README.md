@@ -757,6 +757,8 @@
 
 `521.` [Longest Uncommon Subsequence I](src/easy/LongestUncommonSubsequenceI.java) 
 
+`530.` [Minimum Absolute Difference in BST](src/easy/MinimumAbsoluteDifferenceinBST.java)
+
 `538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
  
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
