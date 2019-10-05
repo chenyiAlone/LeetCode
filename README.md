@@ -769,6 +769,8 @@
 
 `563.` [Binary Tree Tilt](src/easy/BinaryTreeTilt.java)
 
+`589.` [N-ary Tree Preorder Traversal](src/easy/NaryTreePreorderTraversal.java)
+
 [返回目录](#navigation)
 
 ## 650-699
