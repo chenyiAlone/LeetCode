@@ -763,6 +763,8 @@
 
 `541.` [Reverse String II](src/easy/ReverseStringII.java)
  
+`543.` [Diameter of Binary Tree](src/easy/DiameterofBinaryTree.java)
+ 
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
 
 `559.` [Maximum Depth of N-ary Tree](src/easy/MaximumDepthofNaryTree.java)
