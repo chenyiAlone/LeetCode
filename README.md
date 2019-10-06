@@ -773,6 +773,8 @@
 
 `589.` [N-ary Tree Preorder Traversal](src/easy/NaryTreePreorderTraversal.java)
 
+`590`. [N-ary Tree Postorder Traversal](src/easy/NaryTreePostorderTraversal.java)
+
 [返回目录](#navigation)
 
 ## 650-699
