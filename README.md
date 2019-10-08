@@ -781,6 +781,8 @@
 
 `606.` [Construct String from Binary Tree](src/easy/ConstructStringfromBinaryTree.java)
 
+`617.` [Merge Two Binary Trees](src/easy/MergeTwoBinaryTrees.java)
+
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
 [返回目录](#navigation)
