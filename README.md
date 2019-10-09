@@ -783,6 +783,8 @@
 
 `617.` [Merge Two Binary Trees](src/easy/MergeTwoBinaryTrees.java)
 
+`623.` [Add One Row to Tree](src/medium/AddOneRowtoTrees.java)
+
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
 [返回目录](#navigation)
