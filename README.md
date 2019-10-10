@@ -785,6 +785,8 @@
 
 `623.` [Add One Row to Tree](src/medium/AddOneRowtoTrees.java)
 
+`637.` [Average of Levels in Binary Tree](src/easy/AverageofLevelsinBinaryTree.java)
+
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
 [返回目录](#navigation)
