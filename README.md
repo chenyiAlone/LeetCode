@@ -789,6 +789,8 @@
 
 `653.` [Two Sum IV - Input is a BST](src/easy/TwoSumIVInputisaBST.java)
 
+`654.` [Maximum Binary Tree](src/medium/MaximumBinaryTree.java)
+
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
 [返回目录](#navigation)
