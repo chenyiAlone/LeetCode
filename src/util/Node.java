@@ -7,6 +7,8 @@ public class Node {
     public Node left;
     public Node right;
     public Node next;
+    public Node prev;
+    
     public List<Node> children;
     public Node(int val) {
         this.val = val;
