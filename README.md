@@ -799,6 +799,8 @@
 
 ## 700-749
 
+`725.` [Split Linked List in Parts](src/medium/SplitLinkedListinParts.java)
+
 `735.` [Asteroid Collision](src/medium/AsteroidCollision.java)
 
 [返回目录](#navigation)
