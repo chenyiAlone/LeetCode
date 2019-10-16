@@ -821,6 +821,9 @@
 
 [返回目录](#navigation)
 
+
+`1019.` [Next Greater Node In Linked List](src/medium/NextGreaterNodeInLinkedList.java)
+
 ---
 
 *2018.11.29  `updata`*
