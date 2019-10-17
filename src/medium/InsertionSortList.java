@@ -47,30 +47,17 @@ public class InsertionSortList {
     }
 
 
-    private ListNode insertionSortList(ListNode head) {
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode pre = dummy;
-        while (pre.next != null) {
-            ListNode cur = pre.next;
-            ListNode next = cur.next;
-
-            ListNode ins_pre = dummy;
-            while (ins_pre.next.val < cur.val && ins_pre.next != cur) {
-                ins_pre = ins_pre.next;
-            }
-            if (ins_pre.next != cur) {
-                pre.next = null;
-                cur.next = ins_pre.next;
-                ins_pre.next = cur;
-                pre.next = next;
-            } else {
+    public ListNode insertionSortList(ListNode head) {
+        ListNode guard = new ListNode(Integer.MIN_VALUE);
+        for (ListNode cur = head, next = null; cur != null; cur = next) {
+            next = cur.next;
+            ListNode pre = guard;
+            while (pre.next != null && cur.val > pre.next.val)
                 pre = pre.next;
-            }
-
-            // pre = pre.next;
-            // iter
-        }
-        return dummy.next;
+            ListNode pn = pre.next;
+            cur.next = pn;
+            pre.next = cur;
+        }        
+        return guard.next;
     }
 }

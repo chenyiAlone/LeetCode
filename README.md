@@ -324,6 +324,8 @@
 
 `146.` [LRU Cache](src/hard/LRUCache.java)
 
+`147.` [Insertion Sort List](src/medium/InsertionSortList.java)
+
 `148.` [Sort List](src/medium/SortList.java)
 
 [返回目录](#navigation)
