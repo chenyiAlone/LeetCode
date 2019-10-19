@@ -254,7 +254,7 @@
 
 `108.` [Convert Sorted Array to Binary Search Tree](src/easy/ConvertSortedArraytoBinarySearchTree.java)
 
-`109.` [Convert Sorted List to Binary Search Tree](src/medium)
+`109.` [Convert Sorted List to Binary Search Tree](src/medium/ConvertSortedListtoBinarySearchTree.java)
 
 `110.` [Balanced Binary Tree](src/easy/BalancedBinaryTree.java)
 
@@ -772,6 +772,8 @@
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
 
 `559.` [Maximum Depth of N-ary Tree](src/easy/MaximumDepthofNaryTree.java)
+
+`561.` [Array Partition I](src/easy/ArrayPartitionI.java)
 
 `563.` [Binary Tree Tilt](src/easy/BinaryTreeTilt.java)
 
