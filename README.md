@@ -477,7 +477,7 @@
 `258.` [Add Digits](src/easy/AddDigits.java)
 
 `260.` [Single Number III](src/medium/SingleNumberIII.java)
-
+    
 `263.` [Ugly Number](src/easy/UglyNumber.java)
 
 `264.` [Ugly Number II](src/medium/UglyNumberII.java)
@@ -792,6 +792,8 @@
 `623.` [Add One Row to Tree](src/medium/AddOneRowtoTrees.java)
 
 `637.` [Average of Levels in Binary Tree](src/easy/AverageofLevelsinBinaryTree.java)
+
+`643.` [Maximum Average Subarray I](src/easy/MaximumAverageSubarrayI.java)
 
 `653.` [Two Sum IV - Input is a BST](src/easy/TwoSumIVInputisaBST.java)
 
