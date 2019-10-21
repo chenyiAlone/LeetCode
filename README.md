@@ -795,6 +795,8 @@
 
 `643.` [Maximum Average Subarray I](src/easy/MaximumAverageSubarrayI.java)
 
+`645.` [Set Mismatch](src/easy/SetMismatch.java)
+
 `653.` [Two Sum IV - Input is a BST](src/easy/TwoSumIVInputisaBST.java)
 
 `654.` [Maximum Binary Tree](src/medium/MaximumBinaryTree.java)
