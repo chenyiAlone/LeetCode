@@ -805,6 +805,8 @@
 
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
+`690.` [Employee Importance](src/easy/EmployeeImportance.java)
+
 [返回目录](#navigation)
 
 ## 700-749
