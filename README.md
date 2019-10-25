@@ -809,6 +809,8 @@
 
 `693.` [Binary Number with Alternating Bits](src/easy/BinaryNumberwithAlternatingBits.java)
 
+`695.` [Max Area of Island](src/medium/MaxAreaofIsland.java)
+
 [返回目录](#navigation)
 
 ## 700-749
