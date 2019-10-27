@@ -817,6 +817,8 @@
 
 `700.` [Search in a Binary Search Tree](src/easy/SearchinaBinarySearchTree.java)
 
+`704.` [Binary Search](src/easy/BinarySearch.java)
+
 `725.` [Split Linked List in Parts](src/medium/SplitLinkedListinParts.java)
 
 `735.` [Asteroid Collision](src/medium/AsteroidCollision.java)
