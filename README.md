@@ -819,6 +819,8 @@
 
 `704.` [Binary Search](src/easy/BinarySearch.java)
 
+`709.` [To Lower Case](src/easy/ToLowerCase.java)
+
 `725.` [Split Linked List in Parts](src/medium/SplitLinkedListinParts.java)
 
 `735.` [Asteroid Collision](src/medium/AsteroidCollision.java)
