@@ -831,6 +831,8 @@
 
 `771.` [Jewels and Stones](src/easy/JewelsandStones.java)
 
+`783.` [Minimum Distance Between BST Nodes](src/easy/MinimumDistanceBetweenBSTNodes.java)
+
 [返回目录](#navigation)
 
 ## 800-849
