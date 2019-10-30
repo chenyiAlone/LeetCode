@@ -803,6 +803,8 @@
 
 `657.` [Robot Return to Origin](src/easy/RobotReturntoOrigin.java)
 
+`661.` [Image Smoother](src/easy/ImageSmoother.java)
+
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
 `690.` [Employee Importance](src/easy/EmployeeImportance.java)
