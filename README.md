@@ -805,6 +805,8 @@
 
 `661.` [Image Smoother](src/easy/ImageSmoother.java)
 
+`671.` [Second Minimum Node In a Binary Tree](src/easy/SecondMinimumNodeInaBinaryTree.java)
+
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
 `690.` [Employee Importance](src/easy/EmployeeImportance.java)
