@@ -829,6 +829,8 @@
 
 `735.` [Asteroid Collision](src/medium/AsteroidCollision.java)
 
+`744.` [Find Smallest Letter Greater Than Target](src/easy/FindSmallestLetterGreaterThanTarget.java)
+
 [返回目录](#navigation)
 
 ## 750-799
