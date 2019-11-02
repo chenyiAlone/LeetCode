@@ -805,6 +805,8 @@
 
 `661.` [Image Smoother](src/easy/ImageSmoother.java)
 
+`662.` [Maximum Width of Binary Tree](src/medium/MaximumWidthofBinaryTree.java)
+
 `671.` [Second Minimum Node In a Binary Tree](src/easy/SecondMinimumNodeInaBinaryTree.java)
 
 `682.` [Baseball Game](src/easy/BaseballGame.java)
