@@ -809,6 +809,8 @@
 
 `671.` [Second Minimum Node In a Binary Tree](src/easy/SecondMinimumNodeInaBinaryTree.java)
 
+`674.` [Longest Continuous Increasing Subsequence](src/easy/LongestContinuousIncreasingSubsequence.java)
+
 `682.` [Baseball Game](src/easy/BaseballGame.java)
 
 `690.` [Employee Importance](src/easy/EmployeeImportance.java)
