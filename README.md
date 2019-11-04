@@ -807,6 +807,8 @@
 
 `662.` [Maximum Width of Binary Tree](src/medium/MaximumWidthofBinaryTree.java)
 
+`670.` [Maximum Swap](src/medium/MaximumSwap.java)
+
 `671.` [Second Minimum Node In a Binary Tree](src/easy/SecondMinimumNodeInaBinaryTree.java)
 
 `674.` [Longest Continuous Increasing Subsequence](src/easy/LongestContinuousIncreasingSubsequence.java)
