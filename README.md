@@ -791,6 +791,8 @@
 
 `617.` [Merge Two Binary Trees](src/easy/MergeTwoBinaryTrees.java)
 
+`622.` [Design Circular Queue](src/medium/DesignCircularQueue.java)
+
 `623.` [Add One Row to Tree](src/medium/AddOneRowtoTrees.java)
 
 `637.` [Average of Levels in Binary Tree](src/easy/AverageofLevelsinBinaryTree.java)
