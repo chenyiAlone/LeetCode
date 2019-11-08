@@ -765,6 +765,8 @@
 
 `538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
 
+`540.` [Single Element in a Sorted Array](src/medium/SingleElementinaSortedArray.java)
+
 `541.` [Reverse String II](src/easy/ReverseStringII.java)
  
 `543.` [Diameter of Binary Tree](src/easy/DiameterofBinaryTree.java)
@@ -796,6 +798,8 @@
 `623.` [Add One Row to Tree](src/medium/AddOneRowtoTrees.java)
 
 `637.` [Average of Levels in Binary Tree](src/easy/AverageofLevelsinBinaryTree.java)
+
+`641.` [Design Circular Deque](src/medium/DesignCircularDeque.java)
 
 `643.` [Maximum Average Subarray I](src/easy/MaximumAverageSubarrayI.java)
 
