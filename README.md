@@ -765,6 +765,8 @@
 
 `538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
 
+`540.` [Single Element in a Sorted Array](src/medium/SingleElementinaSortedArray.java)
+
 `541.` [Reverse String II](src/easy/ReverseStringII.java)
  
 `543.` [Diameter of Binary Tree](src/easy/DiameterofBinaryTree.java)
@@ -783,15 +785,21 @@
 
 [返回目录](#navigation)
 
-## 650-699
+## 600-659
+
+`605.` [Can Place Flowers](src/easy/CanPlaceFlowers.java)
 
 `606.` [Construct String from Binary Tree](src/easy/ConstructStringfromBinaryTree.java)
 
 `617.` [Merge Two Binary Trees](src/easy/MergeTwoBinaryTrees.java)
 
+`622.` [Design Circular Queue](src/medium/DesignCircularQueue.java)
+
 `623.` [Add One Row to Tree](src/medium/AddOneRowtoTrees.java)
 
 `637.` [Average of Levels in Binary Tree](src/easy/AverageofLevelsinBinaryTree.java)
+
+`641.` [Design Circular Deque](src/medium/DesignCircularDeque.java)
 
 `643.` [Maximum Average Subarray I](src/easy/MaximumAverageSubarrayI.java)
 
@@ -803,9 +811,15 @@
 
 `657.` [Robot Return to Origin](src/easy/RobotReturntoOrigin.java)
 
+[返回目录](#navigation)
+
+## 650-699
+
 `661.` [Image Smoother](src/easy/ImageSmoother.java)
 
 `662.` [Maximum Width of Binary Tree](src/medium/MaximumWidthofBinaryTree.java)
+
+`670.` [Maximum Swap](src/medium/MaximumSwap.java)
 
 `671.` [Second Minimum Node In a Binary Tree](src/easy/SecondMinimumNodeInaBinaryTree.java)
 
