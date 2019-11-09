@@ -827,6 +827,8 @@
 
 `704.` [Binary Search](src/easy/BinarySearch.java)
 
+`707.` [Design Linked List](src/medium/DesignLinkedList.java)
+
 `709.` [To Lower Case](src/easy/ToLowerCase.java)
 
 `725.` [Split Linked List in Parts](src/medium/SplitLinkedListinParts.java)
