@@ -845,6 +845,8 @@
 
 `709.` [To Lower Case](src/easy/ToLowerCase.java)
 
+`724.` [Find Pivot Index](src/easy/FindPivotIndex.java)
+
 `725.` [Split Linked List in Parts](src/medium/SplitLinkedListinParts.java)
 
 `735.` [Asteroid Collision](src/medium/AsteroidCollision.java)
