@@ -729,6 +729,8 @@
 
 `476.` [Number Complement](src/easy/NumberComplement.java)
 
+`477.` [Total Hamming Distance](src/medium/TotalHammingDistance.java)
+
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
 
 `494.` [Target Sum](src/easy/TargetSum.java)
