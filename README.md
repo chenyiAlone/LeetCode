@@ -729,6 +729,8 @@
 
 `474.` [Ones and Zeros](src/medium/OnesandZeros.java)
 
+`475.` [Heaters](src/easy/Heaters.java)
+
 `476.` [Number Complement](src/easy/NumberComplement.java)
 
 `477.` [Total Hamming Distance](src/medium/TotalHammingDistance.java)
