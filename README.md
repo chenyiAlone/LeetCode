@@ -735,6 +735,8 @@
 
 `477.` [Total Hamming Distance](src/medium/TotalHammingDistance.java)
 
+`478.` [Generate Random Point in a Circle](src/medium/GenerateRandomPointinaCircle.java)
+
 `482.` [License Key Formatting](src/easy/LicenseKeyFormatting.java)
 
 `485.` [Max Consecutive Ones](src/easy/MaxConsecutiveOnes.java)
