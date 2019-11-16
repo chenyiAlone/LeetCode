@@ -875,6 +875,8 @@
 
 ## 800-849
 
+`832.` [Flipping an Image](src/easy/FlippinganImage.java)
+
 `844.` [Backspace String Compare](src/easy/BackspaceStringCompare.java)
 
 `860.` [Lemonade Change](src/easy/LemonadeChange.java)
