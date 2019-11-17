@@ -875,6 +875,8 @@
 
 ## 800-849
 
+`821.` [Shortest Distance to a Character](src/easy/ShortestDistancetoaCharacter.java)
+
 `832.` [Flipping an Image](src/easy/FlippinganImage.java)
 
 `844.` [Backspace String Compare](src/easy/BackspaceStringCompare.java)
