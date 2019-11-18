@@ -859,6 +859,8 @@
 
 `725.` [Split Linked List in Parts](src/medium/SplitLinkedListinParts.java)
 
+`728.` [Self Dividing Numbers](src/easy/SelftDividingNumbers.java)
+
 `735.` [Asteroid Collision](src/medium/AsteroidCollision.java)
 
 `744.` [Find Smallest Letter Greater Than Target](src/easy/FindSmallestLetterGreaterThanTarget.java)
