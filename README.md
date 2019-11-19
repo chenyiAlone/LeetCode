@@ -591,6 +591,8 @@
 
 `371.` [Sum of Two Integers](src/easy/SumofTwoInteger.java)
 
+`372.` [Super Pow](src/medium/SuperPow.java)
+
 `374.` [Guess Number Higher or Lower](src/easy/GuessNumberHigherorLower.java)
 
 `376.` [Wiggle Subsequence](src/medium/WiggleSubsequence.java)
