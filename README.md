@@ -179,6 +179,8 @@
 
 `75.` [Sort Colors](src/medium/SortColors.java)
 
+`76.` [Minimum Window Substring](src/hard/MinimumWindowSubstring.java)
+
 `77.` [Combinations](src/medium/Combinations.java)
 
 `78.` [Subsets](src/medium/Subsets.java)
