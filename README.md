@@ -889,6 +889,8 @@
 
 `860.` [Lemonade Change](src/easy/LemonadeChange.java)
 
+`867.` [Transpose Matrix](src/easy/TransposeMatrix.java)
+
 `876.` [Middle of the Linked List](src/easy/MiddleoftheLinkedList.java)
 
 [返回目录](#navigation)
