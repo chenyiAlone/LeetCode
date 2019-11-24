@@ -887,6 +887,8 @@
 
 `844.` [Backspace String Compare](src/easy/BackspaceStringCompare.java)
 
+`852.` [Peak Index in a Mountain Array](src/easy/PeakIndexinaMountainArray.java)
+
 `860.` [Lemonade Change](src/easy/LemonadeChange.java)
 
 `867.` [Transpose Matrix](src/easy/TransposeMatrix.java)
