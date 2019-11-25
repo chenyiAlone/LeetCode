@@ -901,6 +901,7 @@
 
 `938.` [Range Sum of BST](src/easy/RangeSumofBST.java)
 
+`965.` [Univalued Binary Tree](src/easy/UnivaluedBinaryTree.java)
 
 `1019.` [Next Greater Node In Linked List](src/medium/NextGreaterNodeInLinkedList.java)
 
