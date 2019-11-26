@@ -783,6 +783,8 @@
 
 `541.` [Reverse String II](src/easy/ReverseStringII.java)
  
+`542.` [01 Matrix](src/medium/ZeroOneMatrix.java)
+ 
 `543.` [Diameter of Binary Tree](src/easy/DiameterofBinaryTree.java)
  
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
