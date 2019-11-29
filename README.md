@@ -533,6 +533,8 @@
 
 `309.` [Best Time to Buy ans Sell Stock with Cooldown](src/medium/BestTimetoBuyandSellStockwithCooldown.java)
 
+`310.` [Minimum Height Trees](src/medium/MinimumHeightTrees.java)
+
 `313.` [Super Ugly Number](src/medium/SuperUglyNumber.java)
 
 `315.` [Count of Smaller Number After Self](src/hard/CountofSmallerNumberAfterSelf.java)
