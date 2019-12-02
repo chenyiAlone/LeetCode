@@ -797,6 +797,8 @@
  
 `551.` [Student Attendance Record I](src/easy/StudentAttendanceRecordI.java)
  
+`556.` [Next Greater Element III](src/medium/NextGreaterElementIII.java)
+ 
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
 
 `559.` [Maximum Depth of N-ary Tree](src/easy/MaximumDepthofNaryTree.java)
