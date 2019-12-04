@@ -797,6 +797,8 @@
  
 `551.` [Student Attendance Record I](src/easy/StudentAttendanceRecordI.java)
  
+`554.` [Brick Wall](src/medium/BrickWall.java)
+
 `556.` [Next Greater Element III](src/medium/NextGreaterElementIII.java)
  
 `557.` [Reverse Words in a String III](src/easy/ReverseWordsinaStringIII.java)
