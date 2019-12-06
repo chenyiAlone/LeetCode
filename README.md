@@ -813,6 +813,8 @@
 
 `563.` [Binary Tree Tilt](src/easy/BinaryTreeTilt.java)
 
+`566.` [Reshape the Matrix](src/easy/ReshapetheMatrix.java)
+
 `589.` [N-ary Tree Preorder Traversal](src/easy/NaryTreePreorderTraversal.java)
 
 `590`. [N-ary Tree Postorder Traversal](src/easy/NaryTreePostorderTraversal.java)
