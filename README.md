@@ -927,6 +927,8 @@
 
 `1019.` [Next Greater Node In Linked List](src/medium/NextGreaterNodeInLinkedList.java)
 
+`1022.` [Sum of Root To Leaf Binary Numbers](src/easy/SumofRootToLeafBinaryNumbers.java)
+
 ---
 
 *2018.11.29  `updata`*
