@@ -877,6 +877,8 @@
 
 `704.` [Binary Search](src/easy/BinarySearch.java)
 
+`705.` [Design HashSet](src/easy/DesignHashSet.java)
+
 `706.` [Design HashMap](src/easy/DesignHashMap.java)
 
 `707.` [Design Linked List](src/medium/DesignLinkedList.java)
