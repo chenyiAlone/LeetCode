@@ -929,6 +929,8 @@
 
 `907.` [Sum of Subarray Minimums](src/medium/SumofSubarrayMinimums.java)
 
+`925.` [Long Pressed Name](src/easy/LongPressedName.java)
+
 `938.` [Range Sum of BST](src/easy/RangeSumofBST.java)
 
 `965.` [Univalued Binary Tree](src/easy/UnivaluedBinaryTree.java)

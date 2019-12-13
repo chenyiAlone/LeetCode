@@ -23,7 +23,7 @@ public class DesignHashSet {
     private int len = 64;
 
     /** Initialize your data structure here. */
-    public MyHashSet() {
+    public DesignHashSet() {
         buckets = new Node[len];
         size = 0;
     }
