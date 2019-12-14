@@ -833,6 +833,8 @@
 
 `623.` [Add One Row to Tree](src/medium/AddOneRowtoTrees.java)
 
+`628.` [Maximum Product of Three Numbers](src/easy/MaximumProductofThreeNumbers.java)
+
 `637.` [Average of Levels in Binary Tree](src/easy/AverageofLevelsinBinaryTree.java)
 
 `641.` [Design Circular Deque](src/medium/DesignCircularDeque.java)
