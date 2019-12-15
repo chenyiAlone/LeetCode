@@ -929,6 +929,8 @@
 
 [返回目录](#navigation)
 
+`905.` [Sort Array By Parity](src/easy/SortArrayByParity.java)
+
 `907.` [Sum of Subarray Minimums](src/medium/SumofSubarrayMinimums.java)
 
 `925.` [Long Pressed Name](src/easy/LongPressedName.java)
