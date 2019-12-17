@@ -923,6 +923,8 @@
 
 `867.` [Transpose Matrix](src/easy/TransposeMatrix.java)
 
+`872.` [Leaf-Similar Trees](src/easy/LeafSimilarTrees.java)
+
 `876.` [Middle of the Linked List](src/easy/MiddleoftheLinkedList.java)
 
 `897.` [Increasing Order Search Tree](src/easy/IncreasingOrderSearchTree.java)
