@@ -903,6 +903,8 @@
 
 ## 750-799
 
+`766.` [Toeplitz Matrix](src/easy/ToeplitzMatrix.java)
+
 `771.` [Jewels and Stones](src/easy/JewelsandStones.java)
 
 `783.` [Minimum Distance Between BST Nodes](src/easy/MinimumDistanceBetweenBSTNodes.java)
