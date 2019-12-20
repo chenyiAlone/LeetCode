@@ -931,6 +931,8 @@
 
 `876.` [Middle of the Linked List](src/easy/MiddleoftheLinkedList.java)
 
+`896.` [Monotonic Array](src/easy/MonotonicArray.java)
+
 `897.` [Increasing Order Search Tree](src/easy/IncreasingOrderSearchTree.java)
 
 [返回目录](#navigation)
