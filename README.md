@@ -879,6 +879,8 @@
 
 `700.` [Search in a Binary Search Tree](src/easy/SearchinaBinarySearchTree.java)
 
+`701.` [Insert into a Binary Search Tree](src/medium/InsertintoaBinarySearchTree.java)
+
 `704.` [Binary Search](src/easy/BinarySearch.java)
 
 `705.` [Design HashSet](src/easy/DesignHashSet.java)
