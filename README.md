@@ -917,6 +917,8 @@
 
 ## 800-849
 
+`814.` [Binary Tree Pruning](src/medium/BinaryTreePruning.java)
+
 `821.` [Shortest Distance to a Character](src/easy/ShortestDistancetoaCharacter.java)
 
 `832.` [Flipping an Image](src/easy/FlippinganImage.java)
