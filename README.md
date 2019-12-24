@@ -959,6 +959,9 @@
 
 `1022.` [Sum of Root To Leaf Binary Numbers](src/easy/SumofRootToLeafBinaryNumbers.java)
 
+`1281.` [Subtract the Product and Sum of Digits of an Integer](src/easy/SubtracttheProductandSumofDigitsofanInteger.java)
+
+
 ---
 
 *2018.11.29  `updata`*
