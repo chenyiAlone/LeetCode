@@ -959,6 +959,8 @@
 
 `1022.` [Sum of Root To Leaf Binary Numbers](src/easy/SumofRootToLeafBinaryNumbers.java)
 
+`1189.` [Maximum Number of Balloons](src/easy/MaximumNumberofBalloons.java)
+
 `1281.` [Subtract the Product and Sum of Digits of an Integer](src/easy/SubtracttheProductandSumofDigitsofanInteger.java)
 
 
