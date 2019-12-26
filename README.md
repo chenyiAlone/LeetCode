@@ -955,6 +955,8 @@
 
 `965.` [Univalued Binary Tree](src/easy/UnivaluedBinaryTree.java)
 
+`1002.` [Find Common Characters](src/easy/FindCommonCharacters.java)
+
 `1019.` [Next Greater Node In Linked List](src/medium/NextGreaterNodeInLinkedList.java)
 
 `1022.` [Sum of Root To Leaf Binary Numbers](src/easy/SumofRootToLeafBinaryNumbers.java)
