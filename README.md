@@ -965,6 +965,7 @@
 
 `1281.` [Subtract the Product and Sum of Digits of an Integer](src/easy/SubtracttheProductandSumofDigitsofanInteger.java)
 
+`1287.` [Element Appearing More Than 25% In Sorted Array](src/easy/ElementAppearingMoreThanQuarterInSortedArray.java)
 
 ---
 
