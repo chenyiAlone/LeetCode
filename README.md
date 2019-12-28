@@ -967,6 +967,8 @@
 
 `1287.` [Element Appearing More Than 25% In Sorted Array](src/easy/ElementAppearingMoreThanQuarterInSortedArray.java)
 
+`1295.` [Find Numbers with Even Number of Digits](src/easy/FindNumberswithEvenNumberofDigits.java)
+
 ---
 
 *2018.11.29  `updata`*
