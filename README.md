@@ -967,6 +967,8 @@
 
 `1287.` [Element Appearing More Than 25% In Sorted Array](src/easy/ElementAppearingMoreThanQuarterInSortedArray.java)
 
+`1290.` [Convert Binary Number in a Linked List to Integer](src/easy/ConvertBinaryNumberinaLinkedListtoInteger.java)
+
 `1295.` [Find Numbers with Even Number of Digits](src/easy/FindNumberswithEvenNumberofDigits.java)
 
 ---
