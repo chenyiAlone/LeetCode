@@ -953,6 +953,8 @@
 
 `938.` [Range Sum of BST](src/easy/RangeSumofBST.java)
 
+`961.` [N-Repeated Element in Size 2N Array](src/easy/NRepeatedElementinSize2NArray.java)
+
 `965.` [Univalued Binary Tree](src/easy/UnivaluedBinaryTree.java)
 
 `1002.` [Find Common Characters](src/easy/FindCommonCharacters.java)
