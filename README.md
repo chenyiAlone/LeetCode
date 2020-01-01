@@ -973,6 +973,8 @@
 
 `1295.` [Find Numbers with Even Number of Digits](src/easy/FindNumberswithEvenNumberofDigits.java)
 
+`1305.` [All Elements in Two Binary Search Trees](src/easy/AllElementsinTwoBinarySearchTrees.java)
+
 ---
 
 *2018.11.29  `updata`*
