@@ -785,6 +785,8 @@
 
 `530.` [Minimum Absolute Difference in BST](src/easy/MinimumAbsoluteDifferenceinBST.java)
 
+`532.` [K-diff Pairs in an Array](src/easy/KdiffPairsinanArray.java)
+
 `538.` [Convert BST to Greater Tree](src/easy/ConvertBSTtoGreaterTree.java)
 
 `540.` [Single Element in a Sorted Array](src/medium/SingleElementinaSortedArray.java)
