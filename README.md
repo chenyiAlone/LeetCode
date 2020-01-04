@@ -861,6 +861,8 @@
 
 `665.` [Non-decreasing Array](src/easy/NondecreasingArray.java)
 
+`669.` [Trim a Binary Search Tree](src/easy/TrimaBinarySearchTree.java)
+
 `670.` [Maximum Swap](src/medium/MaximumSwap.java)
 
 `671.` [Second Minimum Node In a Binary Tree](src/easy/SecondMinimumNodeInaBinaryTree.java)
