@@ -959,6 +959,8 @@
 
 `938.` [Range Sum of BST](src/easy/RangeSumofBST.java)
 
+`941.` [Valid Mountain Array](src/easy/ValidMountainArray.java)
+
 `961.` [N-Repeated Element in Size 2N Array](src/easy/NRepeatedElementinSize2NArray.java)
 
 `965.` [Univalued Binary Tree](src/easy/UnivaluedBinaryTree.java)
