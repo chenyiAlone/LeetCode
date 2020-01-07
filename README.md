@@ -12,15 +12,28 @@
 |  [0 - 49](#0-50)       |
 |  [50 - 99](#51-100)    |
 |  [100 - 149](#100-149) |
+|  [150 - 199](#150-199) |
 |  [200 - 249](#200-249) |
 |  [250 - 299](#250-299) |
+|  [300 - 349](#300-349) |
 |  [350 - 399](#350-399) |
+|  [400 - 449](#400-449) |
 |  [450 - 499](#450-499) |
+|  [500 - 549](#500-549) |
 |  [550 - 599](#550-599) |
+|  [600 - 649](#600-649) |
 |  [650 - 699](#650-699) |
 |  [700 - 749](#700-749) |
 |  [750 - 799](#750-799) |
 |  [800 - 849](#800-849) |
+|  [850 - 899](#850-899) |
+|  [900 - 949](#900-949) |
+|  [950 - 999](#950-999) |
+|  [1000 - 1049](#1000-1049) |
+|  [1050 - 1099](#1050-1099) |
+|  [1100 - 1149](#1100-1149) |
+|  [1150 - 1199](#1150-1199) |
+|  [1200 - 1249](#1200-1249) |
 
 ---
 
@@ -759,7 +772,7 @@
 
 [返回目录](#navigation)
 
-## 550-599
+## 500-549
 
 `500.` [Keyboard Row](src/easy/KeyboardRow.java)
 
@@ -796,6 +809,11 @@
 `542.` [01 Matrix](src/medium/ZeroOneMatrix.java)
  
 `543.` [Diameter of Binary Tree](src/easy/DiameterofBinaryTree.java)
+
+[返回目录](#navigation)
+
+
+## 550-599
  
 `551.` [Student Attendance Record I](src/easy/StudentAttendanceRecordI.java)
  
@@ -817,13 +835,16 @@
 
 `566.` [Reshape the Matrix](src/easy/ReshapetheMatrix.java)
 
+`575.` [Distribute Candies](src/easy/DistributeCandies.java)
+
 `589.` [N-ary Tree Preorder Traversal](src/easy/NaryTreePreorderTraversal.java)
 
 `590`. [N-ary Tree Postorder Traversal](src/easy/NaryTreePostorderTraversal.java)
 
 [返回目录](#navigation)
 
-## 600-659
+
+## 600-649
 
 `605.` [Can Place Flowers](src/easy/CanPlaceFlowers.java)
 
@@ -845,15 +866,16 @@
 
 `645.` [Set Mismatch](src/easy/SetMismatch.java)
 
+[返回目录](#navigation)
+
+
+## 650-699
+
 `653.` [Two Sum IV - Input is a BST](src/easy/TwoSumIVInputisaBST.java)
 
 `654.` [Maximum Binary Tree](src/medium/MaximumBinaryTree.java)
 
 `657.` [Robot Return to Origin](src/easy/RobotReturntoOrigin.java)
-
-[返回目录](#navigation)
-
-## 650-699
 
 `661.` [Image Smoother](src/easy/ImageSmoother.java)
 
@@ -878,6 +900,7 @@
 `695.` [Max Area of Island](src/medium/MaxAreaofIsland.java)
 
 [返回目录](#navigation)
+
 
 ## 700-749
 
@@ -911,6 +934,7 @@
 
 [返回目录](#navigation)
 
+
 ## 750-799
 
 `766.` [Toeplitz Matrix](src/easy/ToeplitzMatrix.java)
@@ -921,6 +945,7 @@
 
 [返回目录](#navigation)
 
+
 ## 800-849
 
 `814.` [Binary Tree Pruning](src/medium/BinaryTreePruning.java)
@@ -930,6 +955,11 @@
 `832.` [Flipping an Image](src/easy/FlippinganImage.java)
 
 `844.` [Backspace String Compare](src/easy/BackspaceStringCompare.java)
+
+[返回目录](#navigation)
+
+
+## 850-899
 
 `852.` [Peak Index in a Mountain Array](src/easy/PeakIndexinaMountainArray.java)
 
@@ -947,6 +977,9 @@
 
 [返回目录](#navigation)
 
+
+## 900-949
+
 `905.` [Sort Array By Parity](src/easy/SortArrayByParity.java)
 
 `907.` [Sum of Subarray Minimums](src/medium/SumofSubarrayMinimums.java)
@@ -961,9 +994,19 @@
 
 `941.` [Valid Mountain Array](src/easy/ValidMountainArray.java)
 
+[返回目录](#navigation)
+
+
+## 950-999
+
 `961.` [N-Repeated Element in Size 2N Array](src/easy/NRepeatedElementinSize2NArray.java)
 
 `965.` [Univalued Binary Tree](src/easy/UnivaluedBinaryTree.java)
+
+[返回目录](#navigation)
+
+
+## 1000-1049
 
 `1002.` [Find Common Characters](src/easy/FindCommonCharacters.java)
 
@@ -971,9 +1014,29 @@
 
 `1022.` [Sum of Root To Leaf Binary Numbers](src/easy/SumofRootToLeafBinaryNumbers.java)
 
+[返回目录](#navigation)
+
+
+## 1050-1099
+
+[返回目录](#navigation)
+
+
+## 1100-1149
+
 `1137.` [N-th Tribonacci Number](src/easy/NthTribonacciNumber.java)
 
+[返回目录](#navigation)
+
+
+## 1150-1199
+
 `1189.` [Maximum Number of Balloons](src/easy/MaximumNumberofBalloons.java)
+
+[返回目录](#navigation)
+
+
+## 1200-1249
 
 `1281.` [Subtract the Product and Sum of Digits of an Integer](src/easy/SubtracttheProductandSumofDigitsofanInteger.java)
 
