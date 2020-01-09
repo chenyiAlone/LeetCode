@@ -1048,6 +1048,8 @@
 
 `1295.` [Find Numbers with Even Number of Digits](src/easy/FindNumberswithEvenNumberofDigits.java)
 
+`1299.` [Replace Elements with Greatest Element on Right Side](src/easy/ReplaceElementswithGreatestElementonRightSide.java)
+
 `1305.` [All Elements in Two Binary Search Trees](src/easy/AllElementsinTwoBinarySearchTrees.java)
 
 ---
