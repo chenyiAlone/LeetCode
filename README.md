@@ -1040,6 +1040,8 @@
 
 ## 1200-1249
 
+`1200.` [Minimum Absolute Difference](src/easy/MinimumAbsoluteDifference.java)
+
 `1207.` [Unique Number of Occurrences](src/easy/UniqueNumberofOccurrences.java)
 
 `1281.` [Subtract the Product and Sum of Digits of an Integer](src/easy/SubtracttheProductandSumofDigitsofanInteger.java)
