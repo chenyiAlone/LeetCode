@@ -858,6 +858,8 @@
 
 `628.` [Maximum Product of Three Numbers](src/easy/MaximumProductofThreeNumbers.java)
 
+`633.` [Sum of Square Numbers](src/easy/SumofSquareNumbers.java)
+
 `637.` [Average of Levels in Binary Tree](src/easy/AverageofLevelsinBinaryTree.java)
 
 `641.` [Design Circular Deque](src/medium/DesignCircularDeque.java)
