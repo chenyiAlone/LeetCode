@@ -19,6 +19,20 @@ package hard;
  *
  */
 class MedianofTwoSortedArrays {
+
+    private double findMedianSortedArrays2(int[] nums1, int[] nums2) {
+        int len = nums1.length + nums2.length;
+        int[] nums = new int[len];
+        for (int i = 0, j = 0, k = 0; i < nums1.length || j < nums2.length; k++) {
+            if (j >= nums2.length || i < nums1.length && nums1[i] < nums2[j]) nums[k] = nums1[i++];
+            else nums[k] = nums2[j++];
+        }
+        if (len % 2 == 0) {
+            return 1.0 * (nums[len / 2 - 1] + nums[len / 2]) / 2;
+        }
+        return nums[len / 2];
+    }
+
 	private double findMedianSortedArrays(int[] nums1, int[] nums2) {
 		int len1 = nums1.length;
 		int len2 = nums2.length;
